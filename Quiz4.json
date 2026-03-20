@@ -1,0 +1,2017 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "objective",
+    "course-title": "Communication in English ",
+    "code": "GES 100.1",
+    "session": "Prep 4",
+    "topics": ["Grammar and Syntax", "Phonetics and Phonology", "Communication Skills", "Writing and Composition", "Language Varieties", "Academic Writing", "Literature", "Study Skills"],
+    "time": "120"
+  },
+  
+  {
+    "type": "Instruction",
+    "content": "Answer all questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 301",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Which one of options A-D best fills the gap in the sentence \"The young doctor______ in our hospital.\"?",
+      "type": "OBJ",
+      "options": [
+        "work",
+        "works",
+        "working",
+        "have worked"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "works"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>👨‍⚕️ Subject-Verb Agreement: Singular Subject</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px; text-align: center; font-size: 1.1em;'>\n      \"The young doctor <strong>___</strong> in our hospital.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why \"works\" is correct?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Subject = <strong>The young doctor</strong> (third person SINGULAR)<br>\n      • In present tense, singular subjects take <strong>verb + -s / -es</strong><br>\n      • <strong>works</strong> = correct singular form ✅<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Why the others are wrong:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      • <strong>work</strong> = plural form (they work) ❌<br>\n      • <strong>working</strong> = needs auxiliary verb (is working) ❌<br>\n      • <strong>have worked</strong> = plural present perfect (they have worked) ❌\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"works\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 302",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Which one of options A-D best fills the gap in the sentence \"A number of the visitors______ entertained by the singers.\"?",
+      "type": "OBJ",
+      "options": [
+        "were",
+        "was",
+        "will",
+        "is"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "were"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📊 \"A number of\" = Plural Verb</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px; text-align: center; font-size: 1em;'>\n      \"A number of the visitors <strong>___</strong> entertained by the singers.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why \"were\" is correct?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>A number of</strong> + plural noun = takes a <strong>PLURAL verb</strong> ✅<br>\n      • The real subject is <strong>\"visitors\"</strong> (plural), not \"a number\"<br>\n      • Plural subject → plural verb: <strong>were</strong> ✅<br>\n      • This is past tense context (entertained = past participle)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>⚠️ Compare with \"the number of\":</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • ✅ <strong>A number of</strong> students <strong>are</strong> late. (plural)<br>\n      • ✅ <strong>The number</strong> of students <strong>is</strong> large. (singular)<br>\n      This is a common test trick!\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"were\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 303",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Which one of options A-D best fills the gap in the sentence \"Those animals______ here.\"?",
+      "type": "OBJ",
+      "options": [
+        "feeds",
+        "feed",
+        "fed",
+        "has been feeding"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "feed"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🦁 Plural Subject = Plural Verb</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px; text-align: center; font-size: 1.1em;'>\n      \"Those animals <strong>___</strong> here.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why \"feed\" is correct?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Subject = <strong>Those animals</strong> (PLURAL)<br>\n      • Plural subject → plural verb (no 's'): <strong>feed</strong> ✅<br>\n      • The sentence is in <strong>present tense</strong> (habit/regular action)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Why the others are wrong:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      • <strong>feeds</strong> = singular verb (for \"that animal\") ❌<br>\n      • <strong>fed</strong> = past tense (possible but \"here\" suggests present) ❌<br>\n      • <strong>has been feeding</strong> = singular present perfect continuous ❌\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"feed\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 304",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Which one of options A-D best fills the gap in the sentence \"Many a citizen______ frustrated.\"?",
+      "type": "OBJ",
+      "options": [
+        "is",
+        "were",
+        "will",
+        "have been"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "is"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📚 \"Many a\" = Singular!</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px; text-align: center; font-size: 1em;'>\n      \"Many a citizen <strong>___</strong> frustrated.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why \"is\" is correct?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Many a</strong> + singular noun = <strong>SINGULAR</strong> meaning, even though it refers to many people!<br>\n      • It emphasizes <strong>each individual</strong> rather than the group<br>\n      • Singular subject → singular verb: <strong>is</strong> ✅<br>\n      • \"Many a citizen have\" would be incorrect ❌\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 More examples:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • ✅ Many a soldier <strong>has</strong> died in war.<br>\n      • ✅ Many a student <strong>is</strong> struggling.<br>\n      • ❌ Many a soldier <strong>have</strong> died.<br>\n      • ❌ Many a student <strong>are</strong> struggling.\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"is\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 305",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Which one of options A-D best fills the gap in the sentence \"These girls ______ ice creams.\"?",
+      "type": "OBJ",
+      "options": [
+        "love",
+        "loves",
+        "loving",
+        "has been loving"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "love"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>👧 Plural Subject = Plural Verb</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"These girls <strong>___</strong> ice creams.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Which is correct?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Subject = <strong>These girls</strong> (plural)<br>\n      • Plural subject → plural verb: <strong>love</strong> (no 's') ✅<br>\n      • \"loves\" = singular ❌<br>\n      • \"loving\" = needs auxiliary (are loving) ❌<br>\n      • \"has been loving\" = singular and awkward ❌\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"love\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 306",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Which one of options A-D best fills the gap in the sentence \"The man and his wife ______ twins.\"?",
+      "type": "OBJ",
+      "options": [
+        "likes",
+        "like",
+        "liking",
+        "has been liking"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "like"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>👫 Compound Subject = Plural Verb</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"The man and his wife <strong>___</strong> twins.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Which is correct?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Subject = <strong>The man and his wife</strong> (2 people = PLURAL)<br>\n      • Plural subject → plural verb: <strong>like</strong> (no 's') ✅<br>\n      • \"likes\" = singular ❌<br>\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"like\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 307",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Which one of options A-D best fills the gap in the sentence \"You ______ here every day.\"?",
+      "type": "OBJ",
+      "options": [
+        "comes",
+        "come",
+        "comed",
+        "has been coming"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "come"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>👤 You = Plural Verb</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"You <strong>___</strong> here every day.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Which is correct?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Subject = <strong>You</strong> (takes plural verb form)<br>\n      • <strong>You</strong> always takes plural verb: <strong>come</strong> ✅<br>\n      • \"comes\" = third person singular (he/she) ❌<br>\n      • \"comed\" is not a word (past = came) ❌<br>\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"come\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 308",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Which one of options A-D best fills the gap in the sentence \"I am wondering ______ to ask.\"?",
+      "type": "OBJ",
+      "options": [
+        "who",
+        "whose",
+        "whom",
+        "who's"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "whom"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>❓ Who vs Whom</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"I am wondering <strong>___</strong> to ask.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Which is correct?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Whom</strong> = object pronoun (receives action) ✅<br>\n      • Here, the person is the OBJECT of the verb \"ask\"<br>\n      • <strong>Who</strong> = subject pronoun (performs action) ❌<br>\n      • Trick: Answer with \"him\" = whom; \"he\" = who<br>\n      • \"I am wondering to ask <strong>him</strong>\" → WHOM ✅\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Memory trick:</strong><br>\n      • Who = he/she (subject)<br>\n      • Whom = him/her (object)<br>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"whom\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 309",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Which one of options A-D best fills the gap in the sentence \"This is a ______ appointment.\"?",
+      "type": "OBJ",
+      "options": [
+        "temporal",
+        "temporary",
+        "tempera",
+        "temporary"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "temporary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📅 Temporary vs Temporal</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"This is a <strong>___</strong> appointment.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Which is correct?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>temporary</strong> = lasting for a limited time ✅<br>\n      • <strong>temporal</strong> = relating to time (not about duration) ❌<br>\n      • \"tempera\" = paint type ❌<br>\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"temporary\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 310",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Which one of options A-D best fills the gap in the sentence \"______ you should go with us.\"?",
+      "type": "OBJ",
+      "options": [
+        "Irregardless,",
+        "Regarding,",
+        "Nonetheless",
+        "Regard"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nonetheless"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🔗 Conjunctive Adverbs</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"<strong>___</strong> you should go with us.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Which is correct?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Nonetheless</strong> = \"nevertheless; in spite of that\" ✅<br>\n      • <strong>Irregardless</strong> is non-standard (use \"regardless\") ❌<br>\n      • <strong>Regarding</strong> = about/concerning (needs a subject) ❌<br>\n      • <strong>Regard</strong> = verb/noun (not a connector) ❌<br>\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"Nonetheless\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 311",
+    "topic": ["Phonetics and Phonology"],
+    "Question": {
+      "content": "Which of the sentences below has a rising tune?",
+      "type": "OBJ",
+      "options": [
+        "Boma bought a new car.",
+        "Is she coming?",
+        "He scored a hat-trick.",
+        "Don't touch it!"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Is she coming?"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🎵 Rising vs Falling Intonation</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📈 Rising intonation:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Voice pitch goes UP at the end ⬆️<br>\n      • Used for <strong>YES/NO questions</strong> ✅<br>\n      • \"Is she coming?\" ⬆️<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📉 Falling intonation:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Voice pitch goes DOWN at the end ⬇️<br>\n      • Used for statements, commands, WH-questions<br>\n      • \"Boma bought a new car.\" ⬇️<br>\n      • \"He scored a hat-trick.\" ⬇️<br>\n      • \"Don't touch it!\" ⬇️\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"Is she coming?\" has a rising tune (yes/no question).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 312",
+    "topic": ["Communication Skills"],
+    "Question": {
+      "content": "The act of communication in which information is transferred from a transmitter to a receiver is called",
+      "type": "OBJ",
+      "options": [
+        "writing",
+        "reading",
+        "speaker",
+        "decoding"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "writing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>✍️ Writing as Communication</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📝 Breaking it down:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Transmitter</strong> = the writer (sender)<br>\n      • <strong>Receiver</strong> = the reader (audience)<br>\n      • <strong>Information transferred</strong> = the message<br>\n      • This describes the act of <strong>WRITING</strong> ✅\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Why not others?</strong><br>\n      • <strong>Reading</strong> = receiver decoding, not transmitting<br>\n      • <strong>Speaker</strong> = oral communication, not writing<br>\n      • <strong>Decoding</strong> = interpreting, not transmitting\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"writing\" is correct.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 313",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "The central idea in a paragraph is usually captured in a",
+      "type": "OBJ",
+      "options": [
+        "topic sentence",
+        "thesis statement",
+        "concluding paragraph",
+        "context clue"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "topic sentence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📝 Topic Sentence = Paragraph's Main Idea</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What's the difference?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Topic sentence</strong> = main idea of a PARAGRAPH ✅<br>\n      • <strong>Thesis statement</strong> = main idea of an entire ESSAY 📘<br>\n      • <strong>Concluding paragraph</strong> = wraps up the essay 🔚<br>\n      • <strong>Context clue</strong> = hints to understand words 🔍\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Topic sentence captures the central idea of a paragraph.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 314",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Pick out the odd item from the following list of words:",
+      "type": "OBJ",
+      "options": [
+        "Organization",
+        "Paragraph",
+        "Content",
+        "Mechanical accuracy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Paragraph"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📋 Elements vs. Unit</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔍 Analyzing each word:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Organization</strong> = quality of good writing ✅<br>\n      • <strong>Content</strong> = quality of good writing ✅<br>\n      • <strong>Mechanical accuracy</strong> = quality of good writing (grammar, spelling) ✅<br>\n      • <strong>Paragraph</strong> = a UNIT of writing, not a quality ❌\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎯 The odd one out:</strong><br>\n    Organization, Content, and Mechanical accuracy are all <strong>qualities/elements</strong> of effective writing.<br>\n    Paragraph is the <strong>structure/unit</strong> itself.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"Paragraph\" is the odd one out.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 315",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Pick out the odd item from the following list of words:",
+      "type": "OBJ",
+      "options": [
+        "Hanging paragraph",
+        "Headed paragraph",
+        "Intended paragraph",
+        "Block paragraph"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Headed paragraph"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📐 Paragraph Formats</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔍 Analyzing each word:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Hanging paragraph</strong> = first line flush left, subsequent lines indented ✅<br>\n      • <strong>Intended paragraph</strong> = first line indented (probably meant \"Indented\") ✅<br>\n      • <strong>Block paragraph</strong> = all lines flush left, no indentation ✅<br>\n      • <strong>Headed paragraph</strong> = NOT a standard paragraph format! ❌\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎯 The odd one out:</strong><br>\n    \"Headed paragraph\" is not a recognized paragraph format. The correct term is likely \"Indented paragraph.\"\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"Headed paragraph\" is the odd one out.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 316",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Pick out the odd item from the following list of words:",
+      "type": "OBJ",
+      "options": [
+        "Unity",
+        "sentence variation",
+        "Focus",
+        "Sentence fragments"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sentence fragments"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>✅ Qualities vs ❌ Errors</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔍 Analyzing each word:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Unity</strong> = GOOD quality (all sentences support one idea) ✅<br>\n      • <strong>Sentence variation</strong> = GOOD quality (mix short/long sentences) ✅<br>\n      • <strong>Focus</strong> = GOOD quality (clear main idea) ✅<br>\n      • <strong>Sentence fragments</strong> = ERROR (incomplete sentences) ❌\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎯 The odd one out:</strong><br>\n    Unity, sentence variation, and focus are all <strong>positive qualities</strong> of good writing.<br>\n    Sentence fragments are <strong>writing errors</strong> to avoid.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"Sentence fragments\" is the odd one out (error, not quality).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 317",
+    "topic": ["Grammar and Syntax"],
+    "Question": {
+      "content": "Pick out the odd item from the following list of words:",
+      "type": "OBJ",
+      "options": [
+        "In addition",
+        "However",
+        "Also",
+        "Moreover"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "However"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🔗 Additive vs Contrastive Connectors</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔍 Analyzing each word:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>In addition</strong> = ADDITIVE (adds information) ✅<br>\n      • <strong>Also</strong> = ADDITIVE (adds information) ✅<br>\n      • <strong>Moreover</strong> = ADDITIVE (adds information) ✅<br>\n      • <strong>However</strong> = CONTRASTIVE (shows opposition) ❌\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎯 The odd one out:</strong><br>\n    \"In addition,\" \"also,\" and \"moreover\" all mean <strong>\"and\"</strong> — they add similar ideas.<br>\n    \"However\" means <strong>\"but\"</strong> — it shows contrast/opposition.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"However\" is the odd one out (contrast vs addition).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 318",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Where may topic sentences occur in paragraphs?",
+      "type": "OBJ",
+      "options": [
+        "only at the beginning",
+        "only at the end",
+        "anywhere",
+        "only at the middle"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "anywhere"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📍 Flexible Topic Sentence Placement</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Possible positions:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Beginning</strong> = most common (deductive) ✅<br>\n      • <strong>Middle</strong> = less common but possible ✅<br>\n      • <strong>End</strong> = inductive paragraph (build up to main idea) ✅<br>\n      • <strong>Implied</strong> = not directly stated, but understood ✅\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎯 Correct answer:</strong><br>\n    Topic sentences can appear <strong>ANYWHERE</strong> in a paragraph — beginning, middle, or end!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Topic sentences may occur ANYWHERE in a paragraph.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 319",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Which of the following may be used in paragraph development?",
+      "type": "OBJ",
+      "options": [
+        "personal experience",
+        "experience from history",
+        "illustrations",
+        "all of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "all of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📚 Methods of Paragraph Development</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ ALL are valid:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Personal experience</strong> = anecdotes, stories from one's life ✅<br>\n      • <strong>Experience from history</strong> = historical examples, facts ✅<br>\n      • <strong>Illustrations</strong> = examples, pictures, diagrams ✅<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎯 Correct answer:</strong><br>\n    All of these are valid methods to develop and support ideas in a paragraph!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> All of the above can be used in paragraph development.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 320",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Which paragraph format is reserved for citing longer texts from sources?",
+      "type": "OBJ",
+      "options": [
+        "Hanging paragraph",
+        "Short paragraph",
+        "Intended paragraph",
+        "Block paragraph"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Block paragraph"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📖 Block Quotations</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What is a block paragraph?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Also called a <strong>block quotation</strong><br>\n      • Used for longer citations (usually 40+ words or 4+ lines)<br>\n      • Indented from the left margin (sometimes both sides)<br>\n      • No quotation marks needed — the formatting shows it's a quote\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Not the others:</strong><br>\n      • <strong>Hanging paragraph</strong> = first line out, others in (bibliographies)<br>\n      • <strong>Intended (Indented) paragraph</strong> = first line in, others out<br>\n      • <strong>Short paragraph</strong> = length, not format\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Block paragraph is for citing longer texts.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 321",
+    "topic": ["Language Varieties"],
+    "Question": {
+      "content": "Which variety of language does speechwriting require?",
+      "type": "OBJ",
+      "options": [
+        "colloquial",
+        "semi-formal",
+        "formal",
+        "mixed"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "formal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🎤 Speechwriting = Formal</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why formal?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Speeches are usually delivered to an audience in <strong>formal settings</strong><br>\n      • Requires <strong>careful word choice, complete sentences, proper grammar</strong><br>\n      • Avoids slang, contractions, and casual expressions<br>\n      • Examples: political speeches, graduation addresses, keynote speeches\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Speechwriting requires FORMAL language.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 322",
+    "topic": ["Language Varieties"],
+    "Question": {
+      "content": "Which variety of language is required in a letter to an acquaintance?",
+      "type": "OBJ",
+      "options": [
+        "colloquial",
+        "semi-formal",
+        "formal",
+        "mixed"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "semi-formal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>✉️ Letter to an Acquaintance = Semi-formal</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What is semi-formal?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Between formal and informal<br>\n      • Someone you know but not very close (neighbor, colleague, family friend)<br>\n      • Polite but not stiff; friendly but not too casual<br>\n      • Use: Dear Mr./Ms., complete sentences, avoid slang\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Levels of formality:</strong><br>\n      • <strong>Formal</strong> = official, business, strangers<br>\n      • <strong>Semi-formal</strong> = acquaintances ✅<br>\n      • <strong>Informal/Colloquial</strong> = close friends, family\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Letter to an acquaintance requires SEMI-FORMAL language.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 323",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Which of the following will be odd in an introductory paragraph?",
+      "type": "OBJ",
+      "options": [
+        "Thesis statement only",
+        "Developing ideas only",
+        "Reiteration and Developing ideas only",
+        "Thesis statement, Background of topic and Courting audience interest"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Developing ideas only"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📝 What Belongs in an Introduction?</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ Introduction should have:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Hook / Courting audience interest<br>\n      • Background of topic<br>\n      • Thesis statement<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ What is ODD:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      <strong>Developing ideas only</strong> — This belongs in the <strong>BODY paragraphs</strong>, not the introduction!<br>\n      Introductions introduce; body paragraphs develop.\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"Developing ideas only\" is odd in an introductory paragraph.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 324",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Which of the following represents qualities of effective writing?",
+      "type": "OBJ",
+      "options": [
+        "Conciseness and Complexity only",
+        "Verbosity only",
+        "Conciseness only",
+        "Economy, Simplicity, and Conciseness only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Economy, Simplicity, and Conciseness only"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>✨ Qualities of Effective Writing</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ GOOD qualities:</strong><br>\n    <div style='background: var(--greenBgL); padding: 12px; border-radius: 8px;'>\n      • <strong>Economy</strong> = using the fewest words possible to convey meaning (no wordiness) 💰<br>\n      • <strong>Simplicity</strong> = clear, easy to understand language (not complicated) 🌟<br>\n      • <strong>Conciseness</strong> = brief but complete; getting to the point quickly ✂️<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ What to AVOID:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      • <strong>Complexity</strong> = unnecessarily complicated, hard to follow ❌<br>\n      • <strong>Verbosity</strong> = wordiness, using too many words (opposite of economy) ❌<br>\n      • <strong>Conciseness alone</strong> = not enough; you need simplicity and economy too\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>💡 Memory tip:</strong><br>\n    Good writing = <strong>Say what you need to say, clearly and briefly, without wasting words.</strong>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Economy, Simplicity, and Conciseness are qualities of effective writing.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 325",
+    "topic": ["Language Varieties"],
+    "Question": {
+      "content": "What variety of language is used in the sentence \"Two guys came to see my dad last night.\"?",
+      "type": "OBJ",
+      "options": [
+        "formal",
+        "semi-formal",
+        "mixed variety",
+        "informal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "informal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🗣️ Informal Language Features</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px; text-align: center; font-size: 1em;'>\n      \"Two <strong>guys</strong> came to see <strong>my dad</strong> last night.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why is this informal?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Guys</strong> = casual term for men (formal would be \"gentlemen\" or \"persons\")<br>\n      • <strong>My dad</strong> = familiar, family term (formal would be \"my father\")<br>\n      • Conversational, everyday speech pattern<br>\n      • No complex vocabulary or structure\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Compare formality levels:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Formal:</strong> \"Two gentlemen visited my father yesterday evening.\"<br>\n      • <strong>Informal:</strong> \"Two guys came to see my dad last night.\" ✅<br>\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> INFORMAL language.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 326",
+    "topic": ["Language Varieties"],
+    "Question": {
+      "content": "What variety of language is used in the sentence \"They had a really long talk about the whole thing.\"?",
+      "type": "OBJ",
+      "options": [
+        "formal",
+        "semi-formal",
+        "mixed variety",
+        "informal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "informal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🗣️ Informal Language Features</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px; text-align: center; font-size: 1em;'>\n      \"They had a <strong>really</strong> long talk about the <strong>whole thing</strong>.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why is this informal?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Really</strong> = informal intensifier (formal would be \"very\" or \"extremely\")\n      • <strong>The whole thing</strong> = vague, casual reference (formal would be \"the entire matter\" or \"the whole issue\")\n      • Conversational, everyday speech pattern\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Compare:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Formal:</strong> \"They had a very lengthy discussion about the entire matter.\"<br>\n      • <strong>Informal:</strong> \"They had a really long talk about the whole thing.\" ✅<br>\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> INFORMAL language.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 327",
+    "topic": ["Language Varieties"],
+    "Question": {
+      "content": "What variety of language is used in the sentence \"The government has sorted out a new peace deal with the whole militants.\"?",
+      "type": "OBJ",
+      "options": [
+        "formal",
+        "semi-formal",
+        "mixed variety",
+        "informal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "informal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🗣️ Informal Language + Grammar Error</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px; text-align: center; font-size: 1em;'>\n      \"The government has <strong>sorted out</strong> a new peace deal with <strong>the whole militants</strong>.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why is this informal?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Sorted out</strong> = phrasal verb, very casual (formal: \"resolved,\" \"negotiated,\" \"concluded\")\n      • <strong>The whole militants</strong> = grammatical error! Should be \"all the militants\"\n      • Informal/casual register with non-standard grammar\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Compare with formal version:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Formal:</strong> \"The government has brokered a new peace deal with the militants.\" (see Q328)<br>\n      • <strong>Informal:</strong> \"The government has sorted out a new peace deal with the whole militants.\" ✅ (with error)\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> INFORMAL language.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 328",
+    "topic": ["Language Varieties"],
+    "Question": {
+      "content": "What variety of language is used in the sentence \"The government has brokered a new peace deal with the militants.\"?",
+      "type": "OBJ",
+      "options": [
+        "formal",
+        "semi-formal",
+        "mixed variety",
+        "informal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "formal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📝 Formal Language Features</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px; text-align: center; font-size: 1em;'>\n      \"The government has <strong>brokered</strong> a new peace deal with the militants.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why is this formal?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Brokered</strong> = sophisticated, formal vocabulary (not \"sorted out\")\n      • Complete, grammatically correct sentence\n      • Appropriate for news reporting, official statements, academic writing\n      • No slang, no contractions, no grammatical errors\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Compare with informal version:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Formal:</strong> \"The government has <strong>brokered</strong> a new peace deal...\" ✅<br>\n      • <strong>Informal:</strong> \"The government has <strong>sorted out</strong> a new peace deal...\" (Q327)<br>\n      Same topic, different register!\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> FORMAL language.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 329",
+    "topic": ["Language Varieties"],
+    "Question": {
+      "content": "What variety of language is used in the sentence \"We considered lots of options but we've got to take only one, and we did.\"?",
+      "type": "OBJ",
+      "options": [
+        "formal",
+        "semi-formal",
+        "mixed variety",
+        "informal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "informal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🗣️ Informal Language Features</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"We considered <strong>lots of</strong> options but <strong>we've got to</strong> take only one, and we did.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why informal?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Lots of</strong> = informal (formal: many/several)<br>\n      • <strong>We've got to</strong> = contraction + informal phrase (formal: we must/we have to)<br>\n      • Conversational, everyday speech pattern\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> INFORMAL language.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 330",
+    "topic": ["Language Varieties"],
+    "Question": {
+      "content": "What variety of language is used in the sentence \"A decision was finally reached, but not before we had considered several options.\"?",
+      "type": "OBJ",
+      "options": [
+        "formal",
+        "semi-formal",
+        "mixed variety",
+        "informal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "formal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📝 Formal Language Features</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"A decision <strong>was finally reached</strong>, but not before we had considered <strong>several</strong> options.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why formal?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Was finally reached</strong> = passive voice (common in formal writing)<br>\n      • <strong>Several</strong> = formal (compare to \"lots of\" in Q329)<br>\n      • No contractions, complete sentences, sophisticated vocabulary<br>\n      • Official, academic, or professional register\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> FORMAL language.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 331",
+    "topic": ["Language Varieties"],
+    "Question": {
+      "content": "What variety of language is used in the sentence \"I spent my last Easter holidays with my best friend, George, and his parents.\"?",
+      "type": "OBJ",
+      "options": [
+        "formal",
+        "semi-formal",
+        "mixed variety",
+        "informal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "semi-formal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📝 Semi-Formal Language</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"I spent my last Easter holidays with my best friend, George, and his parents.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why semi-formal?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Complete, grammatically correct sentence<br>\n      • Personal but not overly casual<br>\n      • Uses \"best friend\" (informal) but proper punctuation and structure<br>\n      • Appropriate for personal letters, diaries, narratives\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> SEMI-FORMAL language.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 332",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "To which of the following sensory organs should a good descriptive text appeal to?",
+      "type": "OBJ",
+      "options": [
+        "skin and ear only",
+        "tongue only",
+        "eye and ear",
+        "eye, nose and skin"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "eye, nose and skin"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>👃👁️👂 Descriptive Writing = Sensory Details</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎯 All five senses!</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Sight (eye)</strong> - what things look like<br>\n      • <strong>Hearing (ear)</strong> - sounds<br>\n      • <strong>Smell (nose)</strong> - odors, scents<br>\n      • <strong>Touch (skin)</strong> - texture, temperature<br>\n      • <strong>Taste (tongue)</strong> - flavors\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ The best answer:</strong><br>\n    \"Eye, nose and skin\" (sight, smell, touch) - but a truly good descriptive text appeals to ALL senses! The test expects this combination.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Good descriptive text should appeal to eye, nose and skin (and more!).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 333",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Which of the following activities is NOT involved in pre-writing?",
+      "type": "OBJ",
+      "options": [
+        "Interviews",
+        "Library research",
+        "Field work",
+        "Editing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Editing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>✍️ Stages of Writing Process</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Pre-writing (Brainstorming stage):</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Interviews</strong> - gathering information ✅<br>\n      • <strong>Library research</strong> - finding sources ✅<br>\n      • <strong>Field work</strong> - observations, data collection ✅<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ What comes LATER:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      <strong>Editing</strong> = happens AFTER drafting (revising, proofreading) ❌\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📌 Writing Process:</strong><br>\n    Pre-writing → Drafting → Revising → Editing → Publishing\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> EDITING is NOT involved in pre-writing.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 334",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Paragraph is best described as a chunk of thought in a/an ______",
+      "type": "OBJ",
+      "options": [
+        "Comprehension",
+        "Composition",
+        "Concentration",
+        "Information"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Composition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📝 Paragraph = Chunk of Thought in Composition</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Breaking it down:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Paragraph</strong> = a unit of writing<br>\n      • <strong>Chunk of thought</strong> = one main idea developed<br>\n      • <strong>Composition</strong> = a written work (essay, article, etc.)<br>\n      • Paragraphs are the building blocks of a COMPOSITION ✅\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Paragraph is a chunk of thought in a COMPOSITION.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 335",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "______ is usually a group of related sentences that express one major idea.",
+      "type": "OBJ",
+      "options": [
+        "Essay",
+        "Article",
+        "Topic sentence",
+        "Paragraph"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Paragraph"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📋 Definition of a Paragraph</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔍 Let's check each option:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Essay</strong> = multiple paragraphs on one topic ❌<br>\n      • <strong>Article</strong> = longer work, may have multiple sections ❌<br>\n      • <strong>Topic sentence</strong> = ONE sentence, not a group ❌<br>\n      • <strong>Paragraph</strong> = group of related sentences expressing ONE major idea ✅\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>💡 Memory trick:</strong><br>\n    • Paragraph = group of sentences about ONE idea<br>\n    • Topic sentence = the sentence that states that idea<br>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> PARAGRAPH is a group of related sentences expressing one major idea.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 336",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "One of the following is not a quality of a good paragraph.",
+      "type": "OBJ",
+      "options": [
+        "Eligibility",
+        "Unity",
+        "Coherence",
+        "Completeness"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Eligibility"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>✅ Qualities of a Good Paragraph</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 The FOUR qualities:</strong><br>\n    <div style='background: var(--greenBgL); padding: 12px; border-radius: 8px;'>\n      • <strong>Unity</strong> = one main idea ✅<br>\n      • <strong>Coherence</strong> = logical flow, easy to follow ✅<br>\n      • <strong>Completeness</strong> = fully developed with supporting details ✅<br>\n      • <strong>Eligibility</strong> = ❌ NOT a paragraph quality! (Eligibility means being qualified for something)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎯 The odd one out:</strong><br>\n    Unity, Coherence, and Completeness are the three main qualities of a good paragraph (sometimes also Emphasis/Order). Eligibility is completely unrelated!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"Eligibility\" is NOT a quality of a good paragraph.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 337",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Words combine to form ______ which in turn combine to form a paragraph.",
+      "type": "OBJ",
+      "options": [
+        "Phrases",
+        "Grammar",
+        "Sentences",
+        "Narration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sentences"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📚 Hierarchy of Language</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The correct sequence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px; text-align: center;'>\n      <strong>Letters</strong> → <strong>Words</strong> → <strong>Sentences</strong> → <strong>Paragraphs</strong> → <strong>Essays/Compositions</strong>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why not phrases?</strong><br>\n    • Words combine to form <strong>phrases</strong> AND <strong>sentences</strong><br>\n    • But it's <strong>sentences</strong> that directly combine to form paragraphs ✅<br>\n    • Paragraphs are groups of SENTENCES, not phrases\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Words combine to form SENTENCES, which combine to form paragraphs.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 338",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "______ is when the sentences in a paragraph are all clearly related and closely connected to the main idea.",
+      "type": "OBJ",
+      "options": [
+        "Legibility",
+        "Cohesion",
+        "Unity",
+        "Adequate development"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🎯 Unity = One Main Idea</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Understanding the terms:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Unity</strong> = all sentences support ONE main idea; no irrelevant sentences ✅<br>\n      • <strong>Cohesion</strong> = grammatical connections between sentences (transition words, pronouns)<br>\n      • <strong>Legibility</strong> = handwriting is clear/readable<br>\n      • <strong>Adequate development</strong> = paragraph is fully explained\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>💡 Memory trick:</strong><br>\n    <strong>UNITY</strong> = ONE idea = all sentences UNITED around the topic sentence.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> UNITY is when sentences are related and connected to the main idea.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 339",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "The smooth progression of ideas from one sentence to another is referred to as ______",
+      "type": "OBJ",
+      "options": [
+        "Coherence",
+        "Cohesion",
+        "Completeness",
+        "Competition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Coherence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🔄 Coherence vs Cohesion</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What's the difference?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Coherence</strong> = ideas flow logically, make sense together (smooth progression) ✅<br>\n      • <strong>Cohesion</strong> = grammar links (pronouns, transition words, repetition)<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📝 Simple analogy:</strong><br>\n    • <strong>Coherence</strong> = the paragraph \"makes sense\" as a whole<br>\n    • <strong>Cohesion</strong> = the glue that holds sentences together<br>\n    • The question asks about \"smooth progression of ideas\" = COHERENCE ✅\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Smooth progression of ideas = COHERENCE.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 340",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "The following are types of paragraph except ______",
+      "type": "OBJ",
+      "options": [
+        "Introductory paragraph",
+        "Transitional Paragraph",
+        "Concluding paragraph",
+        "Compositional"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Compositional"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📑 Types of Paragraphs by Function</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ Functional paragraph types:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Introductory paragraph</strong> = opens an essay, presents thesis ✅<br>\n      • <strong>Transitional paragraph</strong> = moves from one idea to another (short) ✅<br>\n      • <strong>Concluding paragraph</strong> = closes an essay, restates thesis ✅<br>\n      • <strong>Body paragraphs</strong> = develop main ideas (not listed here)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ The fake one:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      <strong>Compositional</strong> — NOT a type of paragraph! A composition is the WHOLE essay, not a paragraph type.\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"Compositional\" is NOT a type of paragraph.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 341",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "It is through paragraphing that ______ and ______ are provided in any composition.",
+      "type": "OBJ",
+      "options": [
+        "Organization/focus",
+        "Academic/writing",
+        "Topic/sentence",
+        "Thesis/statement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Organization/focus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📋 Purpose of Paragraphing</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why do we use paragraphs?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Organization</strong> = structure the content logically ✅<br>\n      • <strong>Focus</strong> = each paragraph has ONE main idea ✅<br>\n      • Also provides: readability, visual breaks, clarity\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Why not others?</strong><br>\n      • Academic/writing = too vague<br>\n      • Topic/sentence = these are parts OF a paragraph<br>\n      • Thesis/statement = thesis is for the whole essay\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Paragraphing provides ORGANIZATION and FOCUS.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 342",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "According to Ojo and Umera-Okeke, the following are parts of a paragraph except",
+      "type": "OBJ",
+      "options": [
+        "Topic sentence",
+        "Supporting details",
+        "Manageable chunks",
+        "Concluding sentence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Manageable chunks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📚 Parts of a Paragraph</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ The THREE main parts:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      1. <strong>Topic sentence</strong> = states the main idea ✅<br>\n      2. <strong>Supporting details</strong> = develop/explain the idea ✅<br>\n      3. <strong>Concluding sentence</strong> = wraps up the paragraph ✅\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ The exception:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      <strong>Manageable chunks</strong> — This is a description of what paragraphs ARE (chunks of thought), not a structural PART of a paragraph.\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"Manageable chunks\" is NOT a part of a paragraph.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 343",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "The topic sentence is the sentence which contains the ______ idea of a paragraph.",
+      "type": "OBJ",
+      "options": [
+        "Comprehension",
+        "Controlling",
+        "Indented",
+        "Developing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Controlling"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🎯 Controlling Idea</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What is a \"controlling idea\"?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • The <strong>controlling idea</strong> is the specific point/attitude about the topic<br>\n      • It \"controls\" or limits what the paragraph will discuss<br>\n      • Example: \"Dogs make excellent pets because they are loyal.\"<br>\n      &nbsp;&nbsp; - Topic = dogs<br>\n      &nbsp;&nbsp; - Controlling idea = make excellent pets because they are loyal\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Terminology:</strong><br>\n      • Topic sentence = contains BOTH the topic AND the controlling idea ✅<br>\n      • Not \"comprehension,\" \"indented,\" or \"developing\"\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The topic sentence contains the CONTROLLING idea.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 344",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "Which of these is TRUE of the length of a paragraph?",
+      "type": "OBJ",
+      "options": [
+        "The length is as important as the sense",
+        "The best length should be five lines or sentences",
+        "No rule legislates the number of sentences",
+        "Verbosity determines the length of a paragraph"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "No rule legislates the number of sentences"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📏 Paragraph Length: No Fixed Rule</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What determines paragraph length?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Content and purpose</strong> — not a fixed number of sentences!<br>\n      • A paragraph can be ONE sentence or MANY sentences<br>\n      • What matters is UNITY (one main idea), not length<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ The correct answer:</strong><br>\n    <div style='background: var(--greenBgL); padding: 12px; border-radius: 8px;'>\n      <strong>\"No rule legislates the number of sentences\"</strong> — This is TRUE! ✅<br>\n      There is no grammar rule that says a paragraph must have 3, 5, or any specific number of sentences.\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> No rule legislates the number of sentences in a paragraph.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 345",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "The topic sentence is also called the ______.",
+      "type": "OBJ",
+      "options": [
+        "Thesis statement",
+        "Kernel sentence",
+        "Terminal position",
+        "Supporting sentence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kernel sentence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🌰 Topic Sentence = Kernel Sentence</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What is a kernel sentence?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • A <strong>kernel sentence</strong> is the core/basic sentence that contains the main idea<br>\n      • In paragraph writing, the topic sentence is sometimes called the kernel sentence<br>\n      • It's the \"seed\" from which the rest of the paragraph grows 🌱\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Why not others?</strong><br>\n      • <strong>Thesis statement</strong> = main idea of an ESSAY, not paragraph<br>\n      • <strong>Terminal position</strong> = location (end of paragraph)<br>\n      • <strong>Supporting sentence</strong> = develops the topic sentence\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The topic sentence is also called the KERNEL SENTENCE.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 346",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "There is nothing wrong with locating your topic sentence in the middle of a paragraph.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Maybe",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📍 Topic Sentence Placement</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Possible positions:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Beginning</strong> = most common (deductive) ✅<br>\n      • <strong>Middle</strong> = less common but perfectly acceptable ✅<br>\n      • <strong>End</strong> = inductive paragraph (build up to main idea) ✅<br>\n      • <strong>Implied</strong> = not directly stated ✅\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ The statement is TRUE:</strong><br>\n    There is absolutely nothing wrong with placing the topic sentence in the middle. It's a matter of style and purpose, not correctness!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> TRUE — topic sentences can be placed anywhere.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 347",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "Regardless of your department, ______ is the chief means by which you will be examined by your lecturer.",
+      "type": "OBJ",
+      "options": [
+        "Reading",
+        "Writing",
+        "Listening",
+        "Speaking"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Writing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>✍️ How Are Students Examined?</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Think about it:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Exams = you <strong>WRITE</strong> answers 📝<br>\n      • Essays, term papers, assignments = <strong>WRITING</strong> 📄<br>\n      • Even oral exams are rare; written exams are the norm<br>\n      • Reading/listening/speaking are skills, but examination is done through WRITING ✅\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> WRITING is the chief means of examination.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 348",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "Academic papers come in such forms as long essays, seminars, and ______.",
+      "type": "OBJ",
+      "options": [
+        "Letter writing",
+        "Departmental courses",
+        "Composition variety",
+        "Term papers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Term papers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📚 Types of Academic Papers</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Common academic paper forms:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Long essays</strong> = extended written assignments ✅<br>\n      • <strong>Seminars</strong> = oral presentations with written components ✅<br>\n      • <strong>Term papers</strong> = research papers at end of term ✅<br>\n      • Also: theses, dissertations, research articles, reports\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Not the others:</strong><br>\n      • Letter writing = personal/business correspondence ❌<br>\n      • Departmental courses = classes, not papers ❌<br>\n      • Composition variety = vague, not a specific type ❌\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Academic papers include long essays, seminars, and TERM PAPERS.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 349",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "A ______ is an academic essay of medium length for which a topic has been assigned or chosen?",
+      "type": "OBJ",
+      "options": [
+        "Semester paper",
+        "Topical issue",
+        "Term paper",
+        "Post-graduate test"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Term paper"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📝 Definition of a Term Paper</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Key features:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Academic essay</strong> = formal writing<br>\n      • <strong>Medium length</strong> = not too short, not a full thesis<br>\n      • <strong>Topic assigned or chosen</strong> = you get a topic or pick one<br>\n      • Usually submitted at the <strong>end of a term/semester</strong><br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ This describes a TERM PAPER:</strong><br>\n    Exactly! This is the standard definition of a term paper.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> TERM PAPER is the correct term.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 350",
+    "topic": ["Writing and Composition"],
+    "Question": {
+      "content": "In any piece of composition, the pre-writing stage entails ______.",
+      "type": "OBJ",
+      "options": [
+        "Brainstorming on a topic and outlining points",
+        "Getting a topic and writing the first draft",
+        "Drawing up a table of content and proofreading",
+        "Editing the draft and polishing it"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brainstorming on a topic and outlining points"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>💡 Pre-writing = Getting Ready to Write</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Pre-writing activities include:</strong><br>\n    <div style='background: var(--greenBgL); padding: 12px; border-radius: 8px;'>\n      • <strong>Brainstorming</strong> = generating ideas 💭<br>\n      • <strong>Outlining</strong> = organizing ideas into a structure 📋<br>\n      • Research, gathering information<br>\n      • Freewriting, clustering, listing\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ What comes LATER:</strong><br>\n      • Writing the first draft = WRITING stage ❌<br>\n      • Proofreading, editing = POST-WRITING stage ❌<br>\n      • Table of contents = after drafting ❌\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Pre-writing = BRAINSTORMING and OUTLINING.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 351",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "The ______ stage of Term Paper Writing is where you put pen to paper.",
+      "type": "OBJ",
+      "options": [
+        "Concluding",
+        "Writing",
+        "Pre-writing",
+        "Rewriting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Writing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>✍️ The Writing Stage</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📝 The 3 Main Stages:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      1. <strong>Pre-writing</strong> = planning, brainstorming 📋<br>\n      2. <strong>Writing</strong> = putting pen to paper, drafting ✍️✅<br>\n      3. <strong>Post-writing</strong> = revising, editing, proofreading 🔍\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 \"Put pen to paper\" means:</strong><br>\n    Actually writing the first draft! This is the WRITING stage.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> WRITING stage is where you put pen to paper.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 352",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "The Post-writing stage of Term Paper Writing is otherwise called the ______ stage.",
+      "type": "OBJ",
+      "options": [
+        "Free-writing",
+        "Re-writing",
+        "Pre-writing",
+        "Real-writing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Re-writing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📝 The Three Stages of Writing</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Writing Process Stages:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Pre-writing</strong> = planning, brainstorming 📋<br>\n      • <strong>Writing</strong> = drafting, putting pen to paper ✍️<br>\n      • <strong>Post-writing / Re-writing</strong> = revising, editing, proofreading 🔍✅\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why \"Re-writing\"?</strong><br>\n    Post-writing is also called the <strong>re-writing</strong> stage because you go back to improve, revise, and polish your work. It's not just writing once — you rewrite to make it better!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Post-writing = RE-WRITING stage.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 353",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "Academic writing can take any of the following forms except ______",
+      "type": "OBJ",
+      "options": [
+        "Seminars",
+        "Term papers",
+        "Dissertations",
+        "Report cards"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Report cards"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📚 Forms of Academic Writing</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ Academic writing includes:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Seminars</strong> = research presentations with written papers ✅<br>\n      • <strong>Term papers</strong> = end-of-term research essays ✅<br>\n      • <strong>Dissertations</strong> = lengthy research for degrees ✅<br>\n      • Essays, theses, research articles, journals, etc.\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ The EXCEPTION:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      <strong>Report cards</strong> — These are NOT academic writing! They are administrative documents that <strong>report</strong> grades, not scholarly work.\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Report cards are NOT a form of academic writing.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 354",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "______ simply means to steal someone else's ideas and pass them off as your own.",
+      "type": "OBJ",
+      "options": [
+        "Plagiarism",
+        "Malapropism",
+        "Tautology",
+        "Pleonasm"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plagiarism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🚫 Plagiarism = Academic Theft</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Definitions:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Plagiarism</strong> = using someone else's work/ideas without credit ✅<br>\n      • <strong>Malapropism</strong> = using wrong word (\"dance a flamingo\" instead of \"flamenco\") ❌<br>\n      • <strong>Tautology</strong> = saying same thing twice (\"free gift\") ❌<br>\n      • <strong>Pleonasm</strong> = using more words than needed (\"burning fire\") ❌\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>⚠️ Serious academic offense!</strong><br>\n    Plagiarism can get you failed, expelled, or even sued. Always cite your sources!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> PLAGIARISM is stealing others' ideas.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 355",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "In any academic writing, it is advisable for the writer to use evidence that is reliable, accurate and ______",
+      "type": "OBJ",
+      "options": [
+        "Objective",
+        "Biased",
+        "Unverifiable",
+        "Comprehension"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Objective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🎯 Qualities of Good Evidence</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ Evidence should be:</strong><br>\n    <div style='background: var(--greenBgL); padding: 12px; border-radius: 8px;'>\n      • <strong>Reliable</strong> = consistent, trustworthy ✅<br>\n      • <strong>Accurate</strong> = correct, factual ✅<br>\n      • <strong>Objective</strong> = unbiased, not influenced by personal feelings ✅<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ What to AVOID:</strong><br>\n      • <strong>Biased</strong> = one-sided, unfair ❌<br>\n      • <strong>Unverifiable</strong> = cannot be checked/confirmed ❌<br>\n      • <strong>Comprehension</strong> = understanding (not a quality of evidence) ❌\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Evidence should be reliable, accurate, and OBJECTIVE.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 356",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "Sources of information for academic writing are broadly divided into ______ and ______ sources.",
+      "type": "OBJ",
+      "options": [
+        "Print/electronic",
+        "Academic/non-academic",
+        "Grammar/spelling",
+        "Communication/skills"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Print/electronic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📚 Types of Information Sources</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 Two broad categories:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Print sources</strong> = physical/paper format 📖<br>\n      &nbsp;&nbsp; Books, journals, newspapers, magazines, encyclopedias<br>\n      • <strong>Electronic sources</strong> = digital format 💻<br>\n      &nbsp;&nbsp; Websites, e-books, online journals, databases, PDFs\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ This is the most common broad division:</strong><br>\n    Print vs Electronic (also called Online vs Offline).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Sources are divided into PRINT and ELECTRONIC.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 357",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "Academic journals are usually ______",
+      "type": "OBJ",
+      "options": [
+        "Peer-revealed",
+        "Peer-reviewed",
+        "Peer-review",
+        "Peer received"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Peer-reviewed"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🔬 Peer-Reviewed Journals</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What does \"peer-reviewed\" mean?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Before publication, the article is <strong>reviewed by experts</strong> in the same field (peers)<br>\n      • They check for accuracy, methodology, significance<br>\n      • They recommend: accept, revise, or reject<br>\n      • This ensures <strong>quality and credibility</strong> ✅\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📝 Also called:</strong><br>\n    • Refereed journals<br>\n    • Scholarly journals<br>\n    • Academic journals\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Academic journals are usually PEER-REVIEWED.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 358",
+    "topic": ["Academic Writing"],
+    "Question": {
+      "content": "In academic writing, information is grouped into ______",
+      "type": "OBJ",
+      "options": [
+        "Primary, secondary and tertiary",
+        "Memoirs, comprehension and oral histories",
+        "Newsreels, videotapes and audiotapes",
+        "Public and private"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Primary, secondary and tertiary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📊 Types of Information Sources</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 The three categories:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Primary sources</strong> = original, firsthand evidence 🔬<br>\n      &nbsp;&nbsp; Research studies, interviews, experiments, diaries, speeches<br>\n      • <strong>Secondary sources</strong> = analyze/interpret primary sources 📘<br>\n      &nbsp;&nbsp; Textbooks, reviews, critiques, biographies<br>\n      • <strong>Tertiary sources</strong> = compile/index primary/secondary 📚<br>\n      &nbsp;&nbsp; Encyclopedias, databases, bibliographies\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Information is grouped into PRIMARY, SECONDARY, and TERTIARY.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 359",
+    "topic": ["Phonetics and Phonology"],
+    "Question": {
+      "content": "Which of the sentences below is true?",
+      "type": "OBJ",
+      "options": [
+        "Pitch modulation carries extra-linguistic meanings.",
+        "Intonation is not necessary for a proper English speech.",
+        "There is only one acceptable definition for intonation.",
+        "Intonation is another word for stress."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pitch modulation carries extra-linguistic meanings."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🎵 Intonation and Pitch</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔍 Analyzing each option:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • ✅ <strong>Pitch modulation carries extra-linguistic meanings</strong> = TRUE! <br>\n      &nbsp;&nbsp; Pitch changes show emotion, attitude, sarcasm, etc. (not just dictionary meaning)<br>\n      • ❌ <strong>Intonation is not necessary</strong> = FALSE! Every English sentence has intonation<br>\n      • ❌ <strong>Only one definition</strong> = FALSE! Intonation has multiple definitions/aspects<br>\n      • ❌ <strong>Intonation = stress</strong> = FALSE! Stress is emphasis on syllables; intonation is pitch pattern\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Pitch modulation carries extra-linguistic meanings is TRUE.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 360",
+    "topic": ["Phonetics and Phonology"],
+    "Question": {
+      "content": "The statement, \"No language is spoken in monotones\" means:",
+      "type": "OBJ",
+      "options": [
+        "All languages use pitch modulations to convey extra-linguistic nuances.",
+        "No language uses monotone pitch modulations.",
+        "No language uses mono-thongs alone.",
+        "No two languages are the same."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All languages use pitch modulations to convey extra-linguistic nuances."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🎵 No Language is Spoken in Monotones</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What does this mean?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Monotone</strong> = speaking with NO pitch variation, all on one note<br>\n      • The statement says: <strong>No language</strong> is spoken like that<br>\n      • Therefore: <strong>ALL languages</strong> have pitch variation/intonation<br>\n      • This pitch variation conveys <strong>extra-linguistic nuances</strong> (emotion, attitude, etc.)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ The correct interpretation:</strong><br>\n    \"All languages use pitch modulations to convey extra-linguistic nuances.\"<br>\n    This is a universal feature of human language!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> All languages use pitch modulations to convey extra-linguistic nuances.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 360",
+    "topic": ["Phonetics and Phonology"],
+    "Question": {
+      "content": "Commands or imperative sentences take a ______",
+      "type": "OBJ",
+      "options": [
+        "rising tune",
+        "falling tune",
+        "rise-fall tune",
+        "flat tune"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "falling tune"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📢 Intonation for Commands</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎵 Falling tune ⬇️</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Commands/Imperatives</strong> = voice goes DOWN at the end<br>\n      • Shows authority, finality, certainty<br>\n      • Examples: \"Sit down.\" ⬇️ \"Close the door.\" ⬇️ \"Stop!\" ⬇️\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔄 Compare:</strong><br>\n      • <strong>Falling tune</strong> = commands, statements, WH-questions ✅<br>\n      • <strong>Rising tune</strong> = yes/no questions, politeness ⬆️<br>\n      • <strong>Rise-fall</strong> = surprise, strong emotion<br>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Commands take a FALLING TUNE.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 361",
+    "topic": ["Phonetics and Phonology"],
+    "Question": {
+      "content": "The intonation tune for the tag question, \"He does not like driving, does he?\" will be a/an",
+      "type": "OBJ",
+      "options": [
+        "rising/falling tune",
+        "steady/falling tune",
+        "falling/rising tune",
+        "standing/running"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "falling/rising tune"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>❓ Tag Question Intonation</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎵 Two possible patterns:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Falling ⬇️ + Rising ⬆️</strong> = speaker is <strong>uncertain, genuinely asking</strong> ✅<br>\n      &nbsp;&nbsp; \"He doesn't like driving, does he?\" (I'm not sure, please tell me)<br>\n      • <strong>Falling ⬇️ + Falling ⬇️</strong> = speaker is <strong>certain, just confirming</strong><br>\n      &nbsp;&nbsp; \"He doesn't like driving, does he?\" (I already know, just checking)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ The question asks for the tune:</strong><br>\n    The tag question typically has a <strong>falling/rising</strong> pattern — the statement falls, the tag rises.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Tag question = FALLING/RISING tune.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 362",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "The language of the literature of knowledge is expository and",
+      "type": "OBJ",
+      "options": [
+        "metaphorical",
+        "ironical",
+        "denotative",
+        "puny"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "denotative"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📚 Literature of Knowledge vs Power</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Thomas De Quincey's distinction:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Literature of Knowledge</strong> = teaches, informs, explains<br>\n      &nbsp;&nbsp; → Language is <strong>expository</strong> and <strong>DENOTATIVE</strong> (literal, dictionary meaning) ✅<br>\n      • <strong>Literature of Power</strong> = moves, inspires, imagines<br>\n      &nbsp;&nbsp; → Language is <strong>connotative</strong>, metaphorical, figurative\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📖 Examples:</strong><br>\n      • Knowledge: textbooks, scientific papers, encyclopedias<br>\n      • Power: poetry, novels, drama\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Literature of knowledge = expository and DENOTATIVE.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 363",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Literature of knowledge deals with ___ and figures, as in History, Economics, Biology and Chemistry",
+      "type": "OBJ",
+      "options": [
+        "fair",
+        "freedom",
+        "facts",
+        "free"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "facts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📊 Literature of Knowledge = Facts</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What does it deal with?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Facts</strong> = verifiable information, data, truths ✅<br>\n      • <strong>Figures</strong> = statistics, numbers, data points<br>\n      • History = dates, events, evidence<br>\n      • Economics = GDP, inflation, employment rates<br>\n      • Biology = cells, DNA, species classification<br>\n      • Chemistry = elements, compounds, reactions\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ The correct word:</strong><br>\n    \"Literature of knowledge deals with <strong>facts</strong> and figures.\"<br>\n    Not fair, freedom, or free — those are abstract concepts, not the core of knowledge literature.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Literature of knowledge deals with FACTS and figures.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 364",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "The language of the literature of power is mainly",
+      "type": "OBJ",
+      "options": [
+        "connotative",
+        "expository",
+        "narrative",
+        "denotative"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "connotative"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🎭 Literature of Power = Connotative</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Understanding the difference:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Connotative</strong> = emotional, associative, figurative meanings ✅<br>\n      &nbsp;&nbsp; Words suggest more than their dictionary definition<br>\n      • <strong>Denotative</strong> = literal, dictionary meaning (Literature of Knowledge)<br>\n      • <strong>Expository</strong> = explains, informs (Knowledge)<br>\n      • <strong>Narrative</strong> = tells a story (can be either)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📖 Example:</strong><br>\n      • \"Home\" denotative = a place where one lives<br>\n      • \"Home\" connotative = warmth, family, safety, belonging<br>\n      Literature of power uses the SECOND meaning!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Literature of power = CONNOTATIVE language.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 365",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Literature of power is simply",
+      "type": "OBJ",
+      "options": [
+        "imaginative literature",
+        "critical literature",
+        "physical literature",
+        "knowledge literature"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "imaginative literature"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>💫 Literature of Power = Imaginative Literature</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📚 Thomas De Quincey's classification:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Literature of Power</strong> = <strong>imaginative literature</strong> ✅<br>\n      &nbsp;&nbsp; Moves the heart, stirs emotions, appeals to imagination<br>\n      &nbsp;&nbsp; Includes: poetry, novels, plays, creative writing<br>\n      • <strong>Literature of Knowledge</strong> = informative literature<br>\n      &nbsp;&nbsp; Teaches facts, informs the mind\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ Simply put:</strong><br>\n    Literature of power = IMAGINATIVE LITERATURE = creative writing = belles-lettres\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Literature of power = IMAGINATIVE LITERATURE.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 366",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Another phrase for imaginative literature is",
+      "type": "OBJ",
+      "options": [
+        "literature of Achebe",
+        "literature of Elechi Amadi",
+        "Literature of power",
+        "Literature of knowledge"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Literature of power"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🔄 Imaginative Literature = Literature of Power</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Same thing, different name:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Imaginative literature</strong> = creative writing, fiction, poetry, drama<br>\n      • <strong>Literature of power</strong> = Thomas De Quincey's term for the SAME thing ✅<br>\n      • It has the <strong>power</strong> to move, inspire, transform the reader<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Not the others:</strong><br>\n      • Literature of Achebe/Elechi Amadi = specific authors, not a general category<br>\n      • Literature of knowledge = opposite (informative, not imaginative)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Imaginative literature = LITERATURE OF POWER.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 367",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "______ literature is what gave birth to modern African literature",
+      "type": "OBJ",
+      "options": [
+        "Singing",
+        "Talking",
+        "Dancing",
+        "Oral"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🗣️ Oral Literature: The Foundation of Modern African Literature</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What is oral literature?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Oral literature</strong> = spoken, performed, passed down through generations before writing<br>\n      • Includes: folktales, myths, legends, proverbs, riddles, songs, epics<br>\n      • This is the <strong>root</strong> of modern African literature ✅<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📚 Famous African writers drew from oral traditions:</strong><br>\n      • Chinua Achebe — Igbo folktales and proverbs<br>\n      • Wole Soyinka — Yoruba myths and rituals<br>\n      • Ngũgĩ wa Thiong'o — Gikuyu oral narratives\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> ORAL literature gave birth to modern African literature.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 368",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Modern African literature evolved from the following, EXCEPT",
+      "type": "OBJ",
+      "options": [
+        "story-telling",
+        "rituals",
+        "incantations",
+        "farming"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "farming"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🌍 Roots of Modern African Literature</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ Sources of African literature:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Story-telling</strong> = folktales, myths, legends ✅<br>\n      • <strong>Rituals</strong> = ceremonies, festivals, performances ✅<br>\n      • <strong>Incantations</strong> = chants, prayers, spells ✅<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ The EXCEPTION:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      <strong>Farming</strong> — This is an economic activity, not a literary or cultural form that directly evolved into literature. While farming may appear in literature, it is NOT a source/genre that literature evolved FROM.\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> FARMING is the exception.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 369",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "The primary functions of literature is ______",
+      "type": "OBJ",
+      "options": [
+        "entertainment",
+        "praises",
+        "worship",
+        "correction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "entertainment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📖 Functions of Literature</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎯 Primary functions:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Entertainment</strong> = to delight, amuse, engage the reader/viewer ✅<br>\n      • <strong>Education</strong> = to inform, teach, enlighten<br>\n      • <strong>Social criticism</strong> = to correct, expose societal ills<br>\n      • <strong>Cultural preservation</strong> = to document traditions\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>💡 Why \"entertainment\" is primary?</strong><br>\n    Before anything else, literature must first capture interest and engage the audience. Even serious messages are wrapped in entertaining stories!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The primary function of literature is ENTERTAINMENT.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 370",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Literature of power educates and ______",
+      "type": "OBJ",
+      "options": [
+        "amuses",
+        "scares",
+        "frightens",
+        "congratulates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "amuses"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🎭 Literature of Power: Educate and Amuse</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 The dual purpose:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Educates</strong> = teaches moral lessons, reveals truths about life ✅<br>\n      • <strong>Amuses</strong> = entertains, delights, provides pleasure ✅<br>\n      • This is the classical Horatian idea: <strong>\"dulce et utile\"</strong> (sweet and useful)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📖 Example:</strong><br>\n    A novel like <em>Things Fall Apart</em> educates about Igbo culture AND amuses through storytelling.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Literature of power educates and AMUSES.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 371",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Prose fiction includes such forms as the following EXCEPT",
+      "type": "OBJ",
+      "options": [
+        "the novel",
+        "the short story",
+        "the dirge",
+        "the novella"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the dirge"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📚 Forms of Prose Fiction</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ Prose fiction includes:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>The novel</strong> = long fictional narrative ✅<br>\n      • <strong>The novella</strong> = medium-length fiction (between novel and short story) ✅<br>\n      • <strong>The short story</strong> = brief fictional narrative ✅<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ The EXCEPTION:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      <strong>The dirge</strong> — This is a <strong>poem/song</strong> of mourning, not prose fiction! It belongs to poetry, not prose.\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The DIRGE is NOT a form of prose fiction.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 372",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Autobiography is more of a ______ narrative than prose fiction",
+      "type": "OBJ",
+      "options": [
+        "historical",
+        "political",
+        "geographical",
+        "chemical"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "historical"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📜 Autobiography = Historical Narrative</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Autobiography vs Fiction:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Autobiography</strong> = true story of a person's life, written by that person<br>\n      &nbsp;&nbsp; Based on <strong>historical facts</strong> and real events ✅<br>\n      • <strong>Prose fiction</strong> = invented/imaginative story<br>\n      &nbsp;&nbsp; Not bound by historical accuracy\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ Autobiography is a HISTORICAL narrative:</strong><br>\n    It documents actual events, people, and periods from the author's life.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Autobiography is more of a HISTORICAL narrative.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 373",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Which is the odd one out?",
+      "type": "OBJ",
+      "options": [
+        "*Things Fall Apart*",
+        "*Arrow of God*",
+        "*The Ascent Stone*",
+        "*The Falsified Road*"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "*The Ascent Stone*"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📚 Novels by Chinua Achebe</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔍 Analyzing each work:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong><em>Things Fall Apart</em></strong> = Chinua Achebe (1958) ✅<br>\n      • <strong><em>Arrow of God</em></strong> = Chinua Achebe (1964) ✅<br>\n      • <strong><em>The Falsified Road</em></strong> = Chinua Achebe (??? Actually this seems incorrect - Achebe didn't write this)<br>\n      • <strong><em>The Ascent Stone</em></strong> = NOT by Chinua Achebe! ❌<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🎯 The odd one out:</strong><br>\n    <em>The Ascent Stone</em> is not a novel by Chinua Achebe. The other three are his major works (though <em>The Falsified Road</em> seems misidentified - possibly a test error).\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> <em>The Ascent Stone</em> is the odd one out.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 374",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Which is not part of the outline for reading narrative fiction?",
+      "type": "OBJ",
+      "options": [
+        "context",
+        "plot overview",
+        "suspense",
+        "character analysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "suspense"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📖 Outline for Reading Narrative Fiction</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>✅ Typical outline elements:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Context</strong> = historical, social, cultural background ✅<br>\n      • <strong>Plot overview</strong> = summary of events/storyline ✅<br>\n      • <strong>Character analysis</strong> = study of characters' traits, motivations ✅<br>\n      • Theme, setting, point of view, style, etc.\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ The EXCEPTION:</strong><br>\n    <div style='background: rgba(244, 67, 54, 0.1); padding: 12px; border-radius: 8px;'>\n      <strong>Suspense</strong> — This is an <strong>element/technique</strong> used IN the story, not a section of an outline for reading/analyzing narrative fiction.\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> SUSPENSE is not part of the outline for reading narrative fiction.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 375",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "One unique feature of narrative fiction is that it communicates through the use of ______.",
+      "type": "OBJ",
+      "options": [
+        "stories",
+        "songs",
+        "dancing",
+        "protocol"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "stories"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📖 Narrative Fiction = Storytelling</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What is narrative fiction?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Narrative fiction</strong> = imaginative storytelling (novels, short stories, etc.)<br>\n      • Its <strong>unique feature</strong> = it communicates through <strong>STORIES</strong> ✅<br>\n      • Songs, dancing, and protocol belong to other forms (poetry, drama, non-fiction)\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Narrative fiction communicates through STORIES.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 376",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "______ is like the element that enables the writer of narrative fiction and drama to achieve order or pattern in his/her work.",
+      "type": "OBJ",
+      "options": [
+        "plot",
+        "story",
+        "novel",
+        "syllables"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "plot"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📊 Plot = Order and Pattern</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Plot vs Story:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Story</strong> = sequence of events in chronological order<br>\n      • <strong>Plot</strong> = the <strong>organized, structured arrangement</strong> of events ✅<br>\n      • Plot gives <strong>order and pattern</strong> — beginning, middle, end; cause and effect; suspense; climax\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📋 E.M. Forster's definition:</strong><br>\n      \"The king died and then the queen died\" = story.<br>\n      \"The king died, and then the queen died of grief\" = plot.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> PLOT enables order and pattern.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 377",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "______ is the soul of a work of fiction or play.",
+      "type": "OBJ",
+      "options": [
+        "theme",
+        "point of view",
+        "plot",
+        "characterization"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "theme"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>💫 Theme = The Soul of Literature</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why is theme the soul?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Theme</strong> = the central idea, message, or insight about life ✅<br>\n      • It is the <strong>soul</strong> because it gives the work meaning and purpose<br>\n      • Plot = body; Characters = limbs; Theme = the spirit that brings it all to life\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📖 Examples of themes:</strong><br>\n      • Things Fall Apart = clash of cultures, masculinity, fate<br>\n      • Animal Farm = corruption of power, totalitarianism<br>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> THEME is the soul of a work of fiction.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 378",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "One way to identify the characters in a work of fiction is to ask the question",
+      "type": "OBJ",
+      "options": [
+        "Who?",
+        "What?",
+        "How?",
+        "Where?"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Who?"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>👤 Who = Characters</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 The 5 Ws in Fiction:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>WHO?</strong> = characters (the people/beings in the story) ✅<br>\n      • <strong>WHAT?</strong> = plot (what happens)<br>\n      • <strong>WHERE?</strong> = setting (place)<br>\n      • <strong>WHEN?</strong> = setting (time)<br>\n      • <strong>WHY?</strong> = motivation/theme\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Ask WHO? to identify characters.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 379",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "What a character says is either called monologue or ______.",
+      "type": "OBJ",
+      "options": [
+        "apologue",
+        "dialogue",
+        "alliteration",
+        "euphony"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "dialogue"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>💬 Monologue vs Dialogue</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Types of speech in fiction:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Monologue</strong> = one character speaking alone (to self or audience) 🎭<br>\n      • <strong>Dialogue</strong> = two or more characters speaking to each other 🗣️🗣️✅<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Not the others:</strong><br>\n      • Apologue = moral fable<br>\n      • Alliteration = repetition of initial sounds<br>\n      • Euphony = pleasant sound\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> What a character says = monologue or DIALOGUE.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 380",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "The ______ is the main character in a work of narrative fiction.",
+      "type": "OBJ",
+      "options": [
+        "antagonist",
+        "villain",
+        "protagonist",
+        "hero"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "protagonist"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🎭 Protagonist = Main Character</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Character roles:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Protagonist</strong> = main character, central figure ✅<br>\n      • <strong>Antagonist</strong> = opposes the protagonist<br>\n      • <strong>Villain</strong> = evil antagonist (not all antagonists are villains)<br>\n      • <strong>Hero</strong> = protagonist with noble qualities (not all protagonists are heroes)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📖 Examples:</strong><br>\n      • Okonkwo = protagonist of Things Fall Apart<br>\n      • Winston Smith = protagonist of 1984<br>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> PROTAGONIST is the main character.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 381",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "\"The sheets hanging on the clothesline danced in the wind\" is an example of ______.",
+      "type": "OBJ",
+      "options": [
+        "hyperbole",
+        "personification",
+        "metonymy",
+        "metaphor"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "personification"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>💃 Personification = Human Qualities to Non-Human</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"The sheets <strong>danced</strong> in the wind.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What is personification?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • Giving <strong>human qualities/actions</strong> to non-human things ✅<br>\n      • Sheets cannot literally dance — they are being personified!<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔄 Compare:</strong><br>\n      • Hyperbole = exaggeration<br>\n      • Metonymy = substituting a related word<br>\n      • Metaphor = direct comparison (no like/as)\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> PERSONIFICATION.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 382",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Which of the following is an example of hyperbole?",
+      "type": "OBJ",
+      "options": [
+        "The wind grabbed my arm.",
+        "The water is shiny.",
+        "I have a million things to do today.",
+        "The vibrating washer caused the house to shake."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "I have a million things to do today."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>📈 Hyperbole = Exaggeration</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔍 Analyzing each option:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • ❌ \"The wind grabbed my arm\" = personification<br>\n      • ❌ \"The water is shiny\" = literal observation<br>\n      • ✅ \"I have a million things to do\" = HYPERBOLE (obvious exaggeration) ✅<br>\n      • ❌ \"The vibrating washer caused the house to shake\" = possible literal statement\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>💡 Key:</strong><br>\n    Hyperbole is <strong>deliberate, obvious exaggeration</strong> not meant to be taken literally. No one literally has a million tasks!\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"I have a million things to do today\" = HYPERBOLE.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 383",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "Which of the following best exemplifies an alliteration?",
+      "type": "OBJ",
+      "options": [
+        "The silky snake slithered slowly sideways.",
+        "The snake was very slow and fat.",
+        "The frog jumped forward and landed upside-down.",
+        "The big bear had soft fur that was long and shaggy."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The silky snake slithered slowly sideways."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🔁 Alliteration = Repetition of Initial Sounds</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔍 Analyzing each option:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • ✅ <strong>The <u>s</u>ilky <u>s</u>nake <u>s</u>lithered <u>s</u>lowly <u>s</u>ideways</strong> = /s/ sound repeated ✅<br>\n      • ❌ \"The snake was very slow and fat\" = no alliteration<br>\n      • ❌ \"The frog jumped forward...\" = no alliteration<br>\n      • ❌ \"The big bear had soft fur...\" = some repetition but not consistent\n    </div>\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> \"The silky snake slithered slowly sideways\" = ALLITERATION.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 384",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "The sentence \"He was a tornado, blasting his way through the opposing team\" is an example of ______.",
+      "type": "OBJ",
+      "options": [
+        "simile",
+        "personification",
+        "metaphor",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "metaphor"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🌪️ Metaphor = Direct Comparison</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The sentence:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"He <strong>was a tornado</strong>...\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Simile vs Metaphor:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Simile</strong> = uses \"like\" or \"as\" (He was <strong>like</strong> a tornado)<br>\n      • <strong>Metaphor</strong> = direct comparison, NO like/as (He <strong>was</strong> a tornado) ✅<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Not personification:</strong><br>\n      A tornado is not being given human qualities — a human is being compared to a tornado.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> METAPHOR.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 385",
+    "topic": ["Literature"],
+    "Question": {
+      "content": "\"The baby's skin was like a rose petal.\" What does this simile say to you?",
+      "type": "OBJ",
+      "options": [
+        "The baby's skin is very soft and delicate.",
+        "The baby's skin is rough.",
+        "The baby's skin is dry.",
+        "The baby's skin is sticky."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The baby's skin is very soft and delicate."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>🌹 Interpreting Similes</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🔤 The simile:</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      \"The baby's skin was <strong>like a rose petal</strong>.\"\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 What are rose petals like?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Soft</strong> ✅<br>\n      • <strong>Delicate</strong> ✅<br>\n      • Smooth<br>\n      • Tender<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>❌ Not the others:</strong><br>\n      • Rough ❌<br>\n      • Dry ❌<br>\n      • Sticky ❌\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> The baby's skin is very soft and delicate.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 386",
+    "topic": ["Study Skills"],
+    "Question": {
+      "content": "A good study group is made up of",
+      "type": "OBJ",
+      "options": [
+        "10-15 students",
+        "1-10 students",
+        "not more than 6 students",
+        "15-20 students"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "not more than 6 students"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>👥 Ideal Study Group Size</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>🧐 Why not more than 6?</strong><br>\n    <div style='background: rgba(0,0,0,0.05); padding: 12px; border-radius: 8px;'>\n      • <strong>Small groups (3-6)</strong> = everyone gets a chance to participate 🗣️<br>\n      • <strong>Large groups (7+)</strong> = chaos, side conversations, some members silent or left out 🙊<br>\n      • <strong>Too small (1-2)</strong> = limited perspectives and ideas 💭<br>\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>📊 Benefits of small study groups:</strong><br>\n    <div style='background: var(--greenBgL); padding: 12px; border-radius: 8px;'>\n      • Everyone can contribute and ask questions ✅<br>\n      • Easier to schedule meetings ✅<br>\n      • More focused and productive sessions ✅<br>\n      • Stronger accountability among members ✅<br>\n      • Deeper discussions and understanding ✅\n    </div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>💡 Expert recommendation:</strong><br>\n    Most study skills experts and educational researchers recommend <strong>4-6 members</strong> for optimal effectiveness. Groups larger than 6 become inefficient.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> A good study group = NOT MORE THAN 6 students.\n  </div>\n</div>"
+    }
+  }
+]
