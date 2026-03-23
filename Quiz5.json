@@ -1,0 +1,2638 @@
+[
+  {
+  "type": "pageInfo",
+  "kind": "Theory",
+  "course_title": "introduction to language and communication",
+  "session": "2024/2025",
+  "code": "GES 111",
+  "topics": ["Geography", "Maps", "Cartography", "Reference Materials", "Publications", "Library Science", "Book Binding", "Reference Section", "Book Design", "Publishing", "Study Skills", "Note-Taking", "Note-Making", "Outlining", "Reading Strategies", "Skimming", "Scanning", "Previewing", "Speed Reading", "Summarizing", "Reading Comprehension", "Inferential Comprehension", "Context Clues", "Connectives", "Writing", "Argumentation", "Comprehension Skills", "Paragraph Structure", "Conclusions", "Paragraph Development", "Paragraph Types", "Reading", "Eye Movement", "Figures of Speech", "Literary Devices", "Synecdoche", "Climax", "Litotes", "Metonymy", "Oxymoron", "Pun", "Classification", "Linguistics", "Word Classes", "Lexis", "Vocabulary", "Homonyms", "Word Formation", "Compounding", "Plurals", "Latin Derivatives", "Neuter Nouns", "Feminine Forms", "Blending", "Simile", "Metaphor", "Personification", "Hyperbole", "Grammar", "Parts of Speech", "Nouns", "Pronouns", "Verbs", "Sentence Structure", "Clauses", "Phrases", "Sentence Types", "Punctuation", "Subject-Verb Agreement", "Conjunctions", "Adjectives", "Synonyms", "Antonyms", "Word Usage", "Common Errors","Cataloguing", "Periodicals", "Sentence Patterns", "Inference"],
+  "time": "180"
+},
+
+
+{
+  "type": "Instruction",
+  "content": "Answer all questions."
+},
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Geography",
+      "Maps",
+      "Cartography"
+    ],
+    "Question": {
+      "content": "Drawings of an area of the earth are referred to as?",
+      "type": "OBJ",
+      "options": [
+        "Maps",
+        "Directives",
+        "Atlas",
+        "Handbooks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Maps"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Definition of Maps</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Map:</strong><br>\n   A map is a symbolic representation of selected characteristics of a place, usually drawn on a flat surface. It shows the relationship between elements of space such as objects, regions, and themes.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Maps\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Reference Materials",
+      "Publications"
+    ],
+    "Question": {
+      "content": "Books published yearly which carry information on various events for the coming year are called?",
+      "type": "OBJ",
+      "options": [
+        "Year book",
+        "Annual book",
+        "Almanacs",
+        "Hand book"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Almanacs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Almanacs</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   An almanac is an annual publication listing a set of events forthcoming in the next year. It includes information such as weather forecasts, farmers' planting dates, tide tables, and other tabular data.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Almanacs\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Library Science",
+      "Book Binding"
+    ],
+    "Question": {
+      "content": "What holds the parts of the book together and makes them easy to handle?",
+      "type": "OBJ",
+      "options": [
+        "Preliminary pages",
+        "Binding",
+        "Tight book",
+        "Surran tight"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Binding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Book Binding</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Book binding is the process of physically assembling a book from a number of folded or unfolded sheets of paper or other material. It holds the pages together and attaches a cover for protection and ease of handling.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Binding\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Library Science",
+      "Reference Section"
+    ],
+    "Question": {
+      "content": "In which section of the library can we find the dictionary?",
+      "type": "OBJ",
+      "options": [
+        "Research section",
+        "Reference section",
+        "Acquisition section",
+        "Circulation section"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reference section"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Library Reference Section</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Reference Materials:</strong><br>\n   Dictionaries, encyclopedias, almanacs, atlases, and other materials that provide quick facts are kept in the <strong>reference section</strong>. These materials are typically for in-library use only and cannot be borrowed.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Reference section\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Book Design",
+      "Publishing"
+    ],
+    "Question": {
+      "content": "The short description on the cover of a book is referred to as?",
+      "type": "OBJ",
+      "options": [
+        "Balb",
+        "Babule",
+        "Back print",
+        "Blurb"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blurb"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Book Blurb</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A blurb is a short promotional description of a book, often found on the back cover or inside flaps. It is intended to attract readers by summarizing the content or providing praise from reviewers.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Blurb\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Study Skills",
+      "Note-Taking"
+    ],
+    "Question": {
+      "content": "Never allow how many days to elapse without making up the notes taken in class?",
+      "type": "OBJ",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Five"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Note-Taking Rule</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Two-Day Rule:</strong><br>\n   Study skills experts recommend reviewing and making up class notes within <strong>two days</strong> of the lecture. This helps with memory retention and ensures that the information is still fresh.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Two\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Study Skills",
+      "Note-Making"
+    ],
+    "Question": {
+      "content": "What is the modification or amplification of notes taken during lectures?",
+      "type": "OBJ",
+      "options": [
+        "Note books",
+        "Note making",
+        "Note taking",
+        "Long memory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Note making"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Note Making vs. Note Taking</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Difference:</strong><br>\n   <ul>\n     <li><strong>Note taking:</strong> The act of recording information during a lecture or reading.</li>\n     <li><strong>Note making:</strong> The process of reviewing, editing, reorganizing, and expanding upon your notes after class to enhance understanding and retention.</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Note making\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Study Skills",
+      "Outlining"
+    ],
+    "Question": {
+      "content": "What is a technique of outlining in note taking and note making?",
+      "type": "OBJ",
+      "options": [
+        "Text book format",
+        "Pattern",
+        "Sentence outline",
+        "Course outline"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sentence outline"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sentence Outline</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A sentence outline is a type of outline where each heading and subheading is expressed as a complete sentence. This technique helps clarify ideas and ensures that each point is fully developed.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Sentence outline\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Study Skills",
+      "Outlining"
+    ],
+    "Question": {
+      "content": "Division of an outline can be done by the use of what?",
+      "type": "OBJ",
+      "options": [
+        "Note books",
+        "Text books",
+        "Lecture notes",
+        "Numbers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Numbers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Outline Division</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Methods:</strong><br>\n   Outlines are typically divided using a hierarchical numbering system:\n   <ul>\n     <li>Roman numerals (I, II, III) for main topics</li>\n     <li>Capital letters (A, B, C) for subtopics</li>\n     <li>Arabic numerals (1, 2, 3) for details</li>\n     <li>Lowercase letters (a, b, c) for further subdivisions</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Numbers\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Reading Strategies",
+      "Skimming",
+      "Scanning"
+    ],
+    "Question": {
+      "content": "Flexibility in reading can be achieved through the following reading strategies?",
+      "type": "OBJ",
+      "options": [
+        "Listening and speaking",
+        "Reading and writing",
+        "Skimming and scanning",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Skimming and scanning"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Skimming and Scanning</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definitions:</strong><br>\n   <ul>\n     <li><strong>Skimming:</strong> Rapid reading to get the general idea or gist of a text.</li>\n     <li><strong>Scanning:</strong> Rapid reading to locate specific information or keywords.</li>\n   </ul>\n   Using both techniques allows a reader to adapt their reading speed and approach based on the purpose of reading.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Skimming and scanning\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Reading Strategies",
+      "Skimming"
+    ],
+    "Question": {
+      "content": "We skim because we want to make utmost use of our?",
+      "type": "OBJ",
+      "options": [
+        "Text books",
+        "Note books",
+        "Lecture notes",
+        "Time"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Time"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Purpose of Skimming</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Skimming:</strong><br>\n   Skimming is a reading technique used to quickly identify the main ideas of a text. It is a time-saving strategy that allows readers to get the gist without reading every word. The primary goal is to make the most efficient use of available time.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Time\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Reading Strategies",
+      "Previewing"
+    ],
+    "Question": {
+      "content": "What is also known as preview reading?",
+      "type": "OBJ",
+      "options": [
+        "Pre-reading",
+        "Over-view",
+        "Review",
+        "Skim reading"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pre-reading"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pre-reading</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Pre-reading (also called preview reading) is the process of surveying a text before reading it in detail. It involves looking at headings, subheadings, images, summaries, and other features to get an overview of the content and structure.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Pre-reading\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Reading Strategies",
+      "Speed Reading"
+    ],
+    "Question": {
+      "content": "Which is not required in speed reading?",
+      "type": "OBJ",
+      "options": [
+        "Context clues",
+        "Proper eye movement",
+        "Active reading",
+        "Knowledge of one's speed"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Knowledge of one's speed"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Speed Reading Requirements</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Essential Skills for Speed Reading:</strong><br>\n   <ul>\n     <li><strong>Context clues:</strong> Using surrounding words to infer meaning</li>\n     <li><strong>Proper eye movement:</strong> Reducing fixations and regressions</li>\n     <li><strong>Active reading:</strong> Engaging with the text mentally</li>\n   </ul>\n   While knowing your reading speed can be helpful for tracking progress, it is not a requirement for speed reading itself.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Knowledge of one's speed\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Summarizing",
+      "Reading Comprehension"
+    ],
+    "Question": {
+      "content": "Which is of great relevance in summarizing a text?",
+      "type": "OBJ",
+      "options": [
+        "Connotative sentences",
+        "Semantic fields",
+        "Meaningful clusters of words",
+        "Topic sentence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Topic sentence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Summarizing and Topic Sentences</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Importance:</strong><br>\n   A topic sentence expresses the main idea of a paragraph. When summarizing a text, identifying topic sentences is crucial because they capture the core message of each paragraph, allowing the reader to condense the material effectively.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Topic sentence\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Reading Comprehension",
+      "Inferential Comprehension"
+    ],
+    "Question": {
+      "content": "Inferential comprehension requires what?",
+      "type": "OBJ",
+      "options": [
+        "Making personal corrections",
+        "Collocation",
+        "Sub-vocalization",
+        "Evaluating information"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Evaluating information"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Inferential Comprehension</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Inferential comprehension involves reading between the lines to understand implied meanings, draw conclusions, and make predictions based on evidence in the text. It requires <strong>evaluating information</strong> to form reasoned judgments.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Evaluating information\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Reading Comprehension",
+      "Context Clues"
+    ],
+    "Question": {
+      "content": "Which is a context clue?",
+      "type": "OBJ",
+      "options": [
+        "Inferences",
+        "Chronological order",
+        "Writer's purpose",
+        "Definitional sentence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Definitional sentence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Context Clues</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Types of Context Clues:</strong><br>\n   <ul>\n     <li><strong>Definitional clues:</strong> The word is directly defined in the sentence</li>\n     <li><strong>Synonym clues:</strong> A similar word is used nearby</li>\n     <li><strong>Antonym clues:</strong> An opposite word provides contrast</li>\n     <li><strong>Example clues:</strong> Examples illustrate the meaning</li>\n   </ul>\n   A definitional sentence explicitly defines an unfamiliar word, making it a clear context clue.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Definitional sentence\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Reading Comprehension",
+      "Connectives"
+    ],
+    "Question": {
+      "content": "Connectives and determiners enable us to do what?",
+      "type": "OBJ",
+      "options": [
+        "Identify background knowledge",
+        "Identify the functions of details",
+        "Determine the writer's purpose",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Identify the functions of details"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Connectives and Determiners</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Functions:</strong><br>\n   <ul>\n     <li><strong>Connectives:</strong> Words like \"however,\" \"therefore,\" \"moreover,\" \"first\" that show relationships between ideas (cause-effect, contrast, sequence)</li>\n     <li><strong>Determiners:</strong> Words like \"this,\" \"that,\" \"these,\" \"those\" that point to specific details</li>\n   </ul>\n   Together, they help readers understand how details relate to one another and to the main idea.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Identify the functions of details\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Writing",
+      "Argumentation"
+    ],
+    "Question": {
+      "content": "Which can shape a writer's arguments?",
+      "type": "OBJ",
+      "options": [
+        "Educational background",
+        "Experiences",
+        "Environment",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Factors Shaping Arguments</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Influences:</strong><br>\n   <ul>\n     <li><strong>Educational background:</strong> Training, knowledge base, and academic discipline</li>\n     <li><strong>Experiences:</strong> Personal and professional life events</li>\n     <li><strong>Environment:</strong> Cultural, social, and physical surroundings</li>\n   </ul>\n   All these factors contribute to a writer's perspective, assumptions, and the evidence they choose to present.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> All of the above\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Reading Comprehension",
+      "Comprehension Skills"
+    ],
+    "Question": {
+      "content": "A major comprehension skill is?",
+      "type": "OBJ",
+      "options": [
+        "Armchair travelling",
+        "Strategic comprehension",
+        "Deductive comprehension",
+        "Flexibility"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Flexibility"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Comprehension Skills</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Flexibility in Reading:</strong><br>\n   Flexibility is a major comprehension skill that involves adjusting reading strategies based on the text type, purpose, and difficulty level. A flexible reader can switch between skimming, scanning, intensive reading, and critical reading as needed.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Flexibility\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Writing",
+      "Paragraph Structure"
+    ],
+    "Question": {
+      "content": "A good paragraph must contain the following in which order?",
+      "type": "OBJ",
+      "options": [
+        "Purpose, Unity, coherence, completeness and order",
+        "Coherence, completeness, unity, purpose and order",
+        "Order, unity, purpose, coherence and completeness",
+        "Topic sentence, connectives, beginning, middle and ending"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Purpose, Unity, coherence, completeness and order"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Paragraph Structure</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Elements of a Good Paragraph:</strong><br>\n   <ol>\n     <li><strong>Purpose:</strong> Clear intention of what the paragraph aims to achieve</li>\n     <li><strong>Unity:</strong> All sentences support one main idea</li>\n     <li><strong>Coherence:</strong> Logical flow and smooth transitions</li>\n     <li><strong>Completeness:</strong> Adequate development of the idea</li>\n     <li><strong>Order:</strong> Logical arrangement of sentences</li>\n   </ol>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Purpose, Unity, coherence, completeness and order\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Writing",
+      "Conclusions"
+    ],
+    "Question": {
+      "content": "Why do lots of people have problems writing conclusions?",
+      "type": "OBJ",
+      "options": [
+        "They do not know what to say",
+        "They do not know how much to say",
+        "They forget that the conclusion is the conclusion",
+        "They sum up all the steps of the argument they have"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They forget that the conclusion is the conclusion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Writing Conclusions</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Common Problem:</strong><br>\n   Many writers struggle with conclusions because they lose sight of its purpose. A conclusion should not simply summarize every step of the argument. Instead, it should provide closure, synthesize main ideas, and leave a final impression. Writers often forget that the conclusion is meant to conclude, not to repeat the entire argument.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> They forget that the conclusion is the conclusion\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Writing",
+      "Paragraph Development"
+    ],
+    "Question": {
+      "content": "There are three stages in paragraph development. What are they?",
+      "type": "OBJ",
+      "options": [
+        "The beginning, the middle and the conclusion",
+        "Pre-writing, writing and post-writing",
+        "Parallelism, antecedent and recapitulation",
+        "What, how and why"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pre-writing, writing and post-writing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stages of Paragraph Development</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Three Stages:</strong><br>\n   <ol>\n     <li><strong>Pre-writing:</strong> Brainstorming, outlining, gathering ideas</li>\n     <li><strong>Writing:</strong> Drafting the paragraph with topic sentence, supporting details, and concluding sentence</li>\n     <li><strong>Post-writing:</strong> Revising, editing, and proofreading</li>\n   </ol>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Pre-writing, writing and post-writing\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Writing",
+      "Paragraph Types"
+    ],
+    "Question": {
+      "content": "What are the three basic types of paragraph?",
+      "type": "OBJ",
+      "options": [
+        "The narrative, descriptive and argumentative paragraph",
+        "Introductory, transitory and the concluding paragraph",
+        "The expository, persuasive and structural paragraph",
+        "The response, research and assessment paragraph"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The narrative, descriptive and argumentative paragraph"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Paragraphs</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Three Basic Types:</strong><br>\n   <ul>\n     <li><strong>Narrative paragraph:</strong> Tells a story or recounts events</li>\n     <li><strong>Descriptive paragraph:</strong> Describes a person, place, object, or experience</li>\n     <li><strong>Argumentative paragraph:</strong> Presents a claim with supporting evidence to persuade</li>\n   </ul>\n   Some classifications also include expository (explanatory) paragraphs as a fourth type.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> The narrative, descriptive and argumentative paragraph\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Reading",
+      "Eye Movement"
+    ],
+    "Question": {
+      "content": "A fast and effective reader makes what kind of eye movement?",
+      "type": "OBJ",
+      "options": [
+        "Very few eye movements",
+        "Rapid eye movement",
+        "No eye movement",
+        "Persistent eye movement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rapid eye movement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Eye Movement in Reading</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Efficient Reading:</strong><br>\n   Fast and effective readers use <strong>rapid eye movements</strong> with fewer fixations (pauses) per line and minimal regressions (backward movements). They also use peripheral vision to process multiple words at once.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Rapid eye movement\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Figures of Speech",
+      "Literary Devices"
+    ],
+    "Question": {
+      "content": "Which is not a figure of speech?",
+      "type": "OBJ",
+      "options": [
+        "Apostrophe",
+        "Ellipsis",
+        "Irony",
+        "Bathos"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ellipsis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Figures of Speech</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definitions:</strong><br>\n   <ul>\n     <li><strong>Apostrophe:</strong> Addressing an absent person or abstract idea</li>\n     <li><strong>Irony:</strong> Expression of meaning using language that normally signifies the opposite</li>\n     <li><strong>Bathos:</strong> An abrupt transition from the sublime to the ridiculous</li>\n     <li><strong>Ellipsis:</strong> A punctuation mark (...) used to indicate omission; it is a punctuation device, not a figure of speech</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Ellipsis\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Figures of Speech",
+      "Synecdoche"
+    ],
+    "Question": {
+      "content": "What uses a part of something to represent the whole and vice-versa?",
+      "type": "OBJ",
+      "options": [
+        "Metonymy",
+        "Euphemism",
+        "Synecdoche",
+        "Oxymoron"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Synecdoche"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Synecdoche</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Synecdoche is a figure of speech in which a part is used to represent the whole (e.g., \"all hands on deck\" meaning sailors) or the whole is used to represent a part (e.g., \"the law\" meaning a police officer).\n   <ul>\n     <li><strong>Metonymy:</strong> Substituting a word with another closely associated (e.g., \"the White House\" for the US government)</li>\n     <li><strong>Euphemism:</strong> Mild expression for something harsh</li>\n     <li><strong>Oxymoron:</strong> Contradictory terms together (e.g., \"jumbo shrimp\")</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Synecdoche\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Figures of Speech",
+      "Climax"
+    ],
+    "Question": {
+      "content": "The opposite of bathos is?",
+      "type": "OBJ",
+      "options": [
+        "Litotes",
+        "Climax",
+        "Dathos",
+        "Oxymoron"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Climax"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bathos vs. Climax</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definitions:</strong><br>\n   <ul>\n     <li><strong>Bathos:</strong> A sudden, unexpected transition from the sublime to the ridiculous; an anticlimax.</li>\n     <li><strong>Climax:</strong> The highest point of intensity or tension in a narrative; a series of ideas arranged in ascending order of importance.</li>\n   </ul>\n   While bathos descends from high to low, climax ascends from low to high.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Climax\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Figures of Speech",
+      "Litotes"
+    ],
+    "Question": {
+      "content": "\"We are unaware of the devices of the enemy\" is an example of?",
+      "type": "OBJ",
+      "options": [
+        "Climax",
+        "Litotes",
+        "Euphemism",
+        "Unlittotes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Litotes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Litotes</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Litotes is a figure of speech that uses understatement by negating the opposite. \"We are unaware\" is a milder way of saying \"we are ignorant.\" It is a form of ironic understatement.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Litotes\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Figures of Speech",
+      "Metonymy"
+    ],
+    "Question": {
+      "content": "\"The pen is mightier than the sword\" This statement is?",
+      "type": "OBJ",
+      "options": [
+        "Paradoxical",
+        "Ironical",
+        "Sarcastic",
+        "Metonymical"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Metonymical"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Metonymy</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   \"The pen is mightier than the sword\" is a classic example of <strong>metonymy</strong>. \"Pen\" represents writing, intellect, and diplomacy, while \"sword\" represents military force, violence, and warfare. The whole phrase means that words and ideas have more power than armed conflict.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Metonymical\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Figures of Speech",
+      "Oxymoron"
+    ],
+    "Question": {
+      "content": "\"He is an eloquent dumb man\" is an example of?",
+      "type": "OBJ",
+      "options": [
+        "Allusion",
+        "Pun",
+        "Euphemism",
+        "Oxymoron"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oxymoron"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Oxymoron</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   An oxymoron is a figure of speech that combines contradictory terms. \"Eloquent\" means fluent and persuasive in speech, while \"dumb\" means unable to speak. Together, \"eloquent dumb man\" creates a paradoxical contradiction that draws attention.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Oxymoron\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Figures of Speech",
+      "Pun"
+    ],
+    "Question": {
+      "content": "\"To Nigeria will I steal and there I'll steal\" is an example of?",
+      "type": "OBJ",
+      "options": [
+        "Allusion",
+        "Pun",
+        "Euphemism",
+        "Oxymoron"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pun"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pun</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A pun is a play on words that exploits multiple meanings or similar-sounding words. In this example, \"steal\" has a double meaning: to take something dishonestly, and also to move stealthily or sneak. The phrase plays on the homophone to create humor or emphasis.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Pun\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Figures of Speech",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Based on their mode of operation in the process of communication, figures of speech are classified into how many basic types?",
+      "type": "OBJ",
+      "options": [
+        "Three",
+        "Four",
+        "Two",
+        "Twelve"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classification of Figures of Speech</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Two Basic Types:</strong><br>\n   Based on their mode of operation, figures of speech are broadly classified into:\n   <ul>\n     <li><strong>Figures of similarity (tropes):</strong> Involve changes in meaning (e.g., metaphor, simile, metonymy)</li>\n     <li><strong>Figures of arrangement (schemes):</strong> Involve changes in word order or structure (e.g., alliteration, parallelism, chiasmus)</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Two\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Linguistics",
+      "Word Classes"
+    ],
+    "Question": {
+      "content": "What is regarded as the basic unit of language?",
+      "type": "OBJ",
+      "options": [
+        "The alphabet",
+        "The sentence",
+        "The phrase",
+        "The word"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The word"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Basic Unit of Language</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Word:</strong><br>\n   The word is considered the basic unit of language because it carries meaning independently. While letters form the building blocks of writing, words combine to form phrases, clauses, and sentences. A word is the smallest free-standing unit that can stand alone and convey meaning.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> The word\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Linguistics",
+      "Lexis",
+      "Vocabulary"
+    ],
+    "Question": {
+      "content": "What is a broad concept which refers to words and their various connections and collocations?",
+      "type": "OBJ",
+      "options": [
+        "Vocabulary",
+        "Dictionary",
+        "Encyclopedia",
+        "Lexis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lexis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lexis</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Lexis refers to the complete set of words in a language, including their meanings, relationships, and patterns of usage. It encompasses vocabulary, collocations (words that frequently occur together), and semantic relationships (synonyms, antonyms, hyponyms).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Lexis\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Linguistics",
+      "Homonyms"
+    ],
+    "Question": {
+      "content": "Words that have the same spelling, same pronunciation but different meaning are called?",
+      "type": "OBJ",
+      "options": [
+        "Homophones",
+        "Homographs",
+        "Homonyms",
+        "Homomorphs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Homonyms"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Homonyms</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definitions:</strong><br>\n   <ul>\n     <li><strong>Homonyms:</strong> Words with the same spelling and pronunciation but different meanings (e.g., \"bank\" - financial institution / river bank)</li>\n     <li><strong>Homophones:</strong> Words with the same pronunciation but different spelling and meaning (e.g., \"there\" / \"their\" / \"they're\")</li>\n     <li><strong>Homographs:</strong> Words with the same spelling but different pronunciation and meaning (e.g., \"lead\" / \"lead\")</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Homonyms\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Linguistics",
+      "Word Formation",
+      "Compounding"
+    ],
+    "Question": {
+      "content": "The process of word formation that is most productive is?",
+      "type": "OBJ",
+      "options": [
+        "Compounding",
+        "Conversion",
+        "Derivation",
+        "Clipping"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Compounding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Word Formation Processes</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Compounding:</strong><br>\n   Compounding is the most productive word formation process in English. It involves combining two or more free morphemes to create a new word (e.g., \"toothbrush,\" \"sunflower,\" \"mother-in-law\"). New compounds are constantly being created, especially in technical fields and marketing.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Compounding\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Linguistics",
+      "Plurals",
+      "Latin Derivatives"
+    ],
+    "Question": {
+      "content": "The plural form of \"Corrigendum\" is?",
+      "type": "OBJ",
+      "options": [
+        "Corrigandums",
+        "Corrigenda",
+        "Corrgenda",
+        "Corrigendi"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Corrigenda"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Latin Plurals</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Corrigendum:</strong><br>\n   \"Corrigendum\" is a Latin word meaning \"a thing to be corrected.\" Its plural follows the Latin neuter plural pattern: \"corrigenda.\" Other examples include:\n   <ul>\n     <li>Addendum → Addenda</li>\n     <li>Erratum → Errata</li>\n     <li>Memorandum → Memoranda</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Corrigenda\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Linguistics",
+      "Neuter Nouns",
+      "Plurals"
+    ],
+    "Question": {
+      "content": "All of these are examples of neuter nouns except one: Phenomenon, Hippopotamus, Criterion, Stadium",
+      "type": "OBJ",
+      "options": [
+        "Phenomenon",
+        "Hippopotamus",
+        "Criterion",
+        "Stadium"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hippopotamus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Neuter Nouns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Neuter Nouns:</strong><br>\n   In grammar, neuter nouns refer to objects without natural gender. While \"phenomenon,\" \"criterion,\" and \"stadium\" are Greek or Latin neuter words (with plurals phenomena, criteria, stadia), \"hippopotamus\" is masculine in Latin (plural hippopotami).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Hippopotamus\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Linguistics",
+      "Plurals",
+      "Feminine Forms"
+    ],
+    "Question": {
+      "content": "The plural formation that requires the addition of \"e\" as in formulae is called?",
+      "type": "OBJ",
+      "options": [
+        "Feminine",
+        "Neuter",
+        "Masculine",
+        "Complex"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Feminine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Feminine Plurals</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Pattern:</strong><br>\n   Some Latin feminine nouns ending in \"-a\" form their plurals by changing to \"-ae\" (pronounced \"ee\"). Examples include:\n   <ul>\n     <li>Formula → Formulae</li>\n     <li>Alumna → Alumnae</li>\n     <li>Larva → Larvae</li>\n   </ul>\n   This pattern is characteristic of Latin first declension (feminine) nouns.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Feminine\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Linguistics",
+      "Word Formation",
+      "Blending"
+    ],
+    "Question": {
+      "content": "A process of word formation by combining parts of two or more already existing words in the same language is referred to as?",
+      "type": "OBJ",
+      "options": [
+        "Clipping",
+        "Back formation",
+        "Coinage",
+        "Blending"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Blending"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Blending</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Blending is the process of combining parts of two or more words to create a new word. It is also called portmanteau. Examples include:\n   <ul>\n     <li>Brunch (breakfast + lunch)</li>\n     <li>Motel (motor + hotel)</li>\n     <li>Smog (smoke + fog)</li>\n     <li>Infomercial (information + commercial)</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Blending\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": [
+      "Figures of Speech",
+      "Simile",
+      "Metaphor"
+    ],
+    "Question": {
+      "content": "\"He fought like a lion\" is an example of?",
+      "type": "OBJ",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Hyperbole"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Simile"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Simile</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A simile is a figure of speech that directly compares two different things using the words \"like\" or \"as\". In the example \"He fought like a lion,\" the comparison between the man's fighting style and a lion's ferocity is made explicit using \"like\".\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Simile\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": [
+      "Figures of Speech",
+      "Metaphor"
+    ],
+    "Question": {
+      "content": "\"Life is a battlefield\" is an example of?",
+      "type": "OBJ",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Hyperbole"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Metaphor"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Metaphor</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A metaphor is a figure of speech that directly compares two different things without using \"like\" or \"as\". It states that one thing is another. In \"Life is a battlefield,\" life is directly equated to a battlefield, implying struggle, conflict, and challenges.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Metaphor\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": [
+      "Figures of Speech",
+      "Personification"
+    ],
+    "Question": {
+      "content": "\"The wind whispered through the trees\" is an example of?",
+      "type": "OBJ",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Hyperbole"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Personification"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Personification</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Personification is a figure of speech that gives human qualities or abilities to inanimate objects, animals, or abstract ideas. In \"The wind whispered through the trees,\" the wind is given the human ability to whisper.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Personification\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": [
+      "Figures of Speech",
+      "Hyperbole"
+    ],
+    "Question": {
+      "content": "\"I have told you a million times\" is an example of?",
+      "type": "OBJ",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Hyperbole"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hyperbole"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hyperbole</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Hyperbole is a figure of speech that uses extreme exaggeration for emphasis or effect. \"I have told you a million times\" is not meant to be taken literally but to emphasize that the speaker has repeated something many times.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Hyperbole\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": [
+      "Grammar",
+      "Parts of Speech",
+      "Nouns"
+    ],
+    "Question": {
+      "content": "A noun that names a specific person, place, or thing is called?",
+      "type": "OBJ",
+      "options": [
+        "Common noun",
+        "Proper noun",
+        "Abstract noun",
+        "Collective noun"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proper noun"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Proper Nouns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A proper noun is a specific name for a particular person, place, or thing. It is always capitalized. Examples: \"John,\" \"London,\" \"Monday,\" \"Coca-Cola.\" In contrast, common nouns name general items (e.g., \"man,\" \"city,\" \"day,\" \"soda\").\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Proper noun\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": [
+      "Grammar",
+      "Parts of Speech",
+      "Nouns"
+    ],
+    "Question": {
+      "content": "A noun that names a group of people or things is called?",
+      "type": "OBJ",
+      "options": [
+        "Common noun",
+        "Proper noun",
+        "Abstract noun",
+        "Collective noun"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Collective noun"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Collective Nouns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A collective noun names a group or collection of people, animals, or things as a single unit. Examples include \"team,\" \"family,\" \"flock,\" \"audience,\" \"committee,\" and \"class.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Collective noun\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": [
+      "Grammar",
+      "Parts of Speech",
+      "Nouns"
+    ],
+    "Question": {
+      "content": "A noun that names an idea, quality, or state is called?",
+      "type": "OBJ",
+      "options": [
+        "Common noun",
+        "Proper noun",
+        "Abstract noun",
+        "Collective noun"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Abstract noun"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Abstract Nouns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   An abstract noun names something that cannot be perceived by the five senses. It refers to ideas, concepts, emotions, qualities, or states. Examples: \"love,\" \"freedom,\" \"happiness,\" \"courage,\" \"justice.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Abstract noun\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": [
+      "Grammar",
+      "Pronouns"
+    ],
+    "Question": {
+      "content": "Which of the following is a personal pronoun?",
+      "type": "OBJ",
+      "options": [
+        "This",
+        "He",
+        "Who",
+        "Myself"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "He"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Personal Pronouns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Personal pronouns refer to specific persons or things. They include: I, me, you, he, him, she, her, it, we, us, they, them. \"He\" is a personal pronoun (third person singular masculine).\n   <ul>\n     <li>\"This\" is a demonstrative pronoun</li>\n     <li>\"Who\" is an interrogative pronoun</li>\n     <li>\"Myself\" is a reflexive pronoun</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> He\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": [
+      "Grammar",
+      "Verbs"
+    ],
+    "Question": {
+      "content": "A verb that does not require an object to complete its meaning is called?",
+      "type": "OBJ",
+      "options": [
+        "Transitive verb",
+        "Intransitive verb",
+        "Auxiliary verb",
+        "Modal verb"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intransitive verb"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intransitive Verbs</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   An intransitive verb is a verb that does not take a direct object. The action of the verb is complete without needing an object. Example: \"She sleeps.\" (Sleeps does not need an object).\n   <br><br>\n   In contrast, a <strong>transitive verb</strong> requires a direct object to complete its meaning. Example: \"She reads a book.\" (\"a book\" is the object).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Intransitive verb\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": [
+      "Grammar",
+      "Sentence Structure",
+      "Clauses"
+    ],
+    "Question": {
+      "content": "A group of words that contains a subject and a predicate and can stand alone as a complete sentence is called?",
+      "type": "OBJ",
+      "options": [
+        "Phrase",
+        "Independent clause",
+        "Dependent clause",
+        "Fragment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Independent clause"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Independent Clause</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   An independent clause (also called a main clause) contains a subject and a predicate and expresses a complete thought. It can stand alone as a sentence.\n   <ul>\n     <li>Example: \"She went to the store.\"</li>\n     <li>A <strong>dependent clause</strong> also has a subject and predicate but cannot stand alone (e.g., \"because she was tired\").</li>\n     <li>A <strong>phrase</strong> lacks either a subject or a verb (e.g., \"to the store\").</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Independent clause\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": [
+      "Grammar",
+      "Sentence Structure",
+      "Clauses"
+    ],
+    "Question": {
+      "content": "A group of words that contains a subject and a predicate but cannot stand alone as a complete sentence is called?",
+      "type": "OBJ",
+      "options": [
+        "Phrase",
+        "Independent clause",
+        "Dependent clause",
+        "Simple sentence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dependent clause"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Dependent Clause</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A dependent clause (also called a subordinate clause) contains a subject and a predicate but does not express a complete thought. It cannot stand alone as a sentence and must be attached to an independent clause.\n   <ul>\n     <li>Example: \"because she was tired\"</li>\n     <li>Example: \"when the bell rang\"</li>\n   </ul>\n   Dependent clauses often begin with subordinating conjunctions like because, although, when, if, since, etc.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Dependent clause\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": [
+      "Grammar",
+      "Sentence Structure",
+      "Phrases"
+    ],
+    "Question": {
+      "content": "A group of related words that does not contain a subject and a predicate is called?",
+      "type": "OBJ",
+      "options": [
+        "Phrase",
+        "Clause",
+        "Sentence",
+        "Paragraph"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phrase"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Phrase</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A phrase is a group of related words that functions as a single unit but does not contain a subject and a predicate. Unlike a clause, it cannot express a complete thought.\n   <ul>\n     <li>Noun phrase: \"the old wooden house\"</li>\n     <li>Verb phrase: \"has been running\"</li>\n     <li>Prepositional phrase: \"under the table\"</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Phrase\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": [
+      "Grammar",
+      "Sentence Types"
+    ],
+    "Question": {
+      "content": "A sentence consisting of one independent clause is called?",
+      "type": "OBJ",
+      "options": [
+        "Simple sentence",
+        "Compound sentence",
+        "Complex sentence",
+        "Compound-complex sentence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Simple sentence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Simple Sentence</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A simple sentence contains one independent clause and no dependent clauses. It has one subject and one predicate, though it may have compound subjects or compound verbs.\n   <ul>\n     <li>Example: \"The dog barked.\"</li>\n     <li>Example (compound subject): \"John and Mary went to the store.\"</li>\n     <li>Example (compound verb): \"She ran and jumped.\"</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Simple sentence\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": [
+      "Grammar",
+      "Sentence Types"
+    ],
+    "Question": {
+      "content": "A sentence consisting of two or more independent clauses joined by a coordinating conjunction is called?",
+      "type": "OBJ",
+      "options": [
+        "Simple sentence",
+        "Compound sentence",
+        "Complex sentence",
+        "Compound-complex sentence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Compound sentence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Compound Sentence</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A compound sentence consists of two or more independent clauses joined by a coordinating conjunction (for, and, nor, but, or, yet, so) or a semicolon.\n   <ul>\n     <li>Example: \"I wanted to go, but I was too tired.\"</li>\n     <li>Example: \"She studied hard; she passed the exam.\"</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Compound sentence\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": [
+      "Grammar",
+      "Sentence Types"
+    ],
+    "Question": {
+      "content": "A sentence consisting of one independent clause and at least one dependent clause is called?",
+      "type": "OBJ",
+      "options": [
+        "Simple sentence",
+        "Compound sentence",
+        "Complex sentence",
+        "Compound-complex sentence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complex sentence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Complex Sentence</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A complex sentence contains one independent clause and at least one dependent clause. The dependent clause is introduced by a subordinating conjunction or relative pronoun.\n   <ul>\n     <li>Example: \"Although it was raining, she went for a walk.\"</li>\n     <li>Example: \"The man who called is my uncle.\"</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Complex sentence\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": [
+      "Grammar",
+      "Punctuation"
+    ],
+    "Question": {
+      "content": "Which punctuation mark is used to indicate a pause between clauses or items in a list?",
+      "type": "OBJ",
+      "options": [
+        "Comma",
+        "Semicolon",
+        "Colon",
+        "Period"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Comma"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Comma Usage</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   The comma (,) is used to indicate a short pause and to separate items in a list, clauses, and other elements within a sentence.\n   <ul>\n     <li>Separating items in a list: \"I bought apples, oranges, and bananas.\"</li>\n     <li>Separating independent clauses with a conjunction: \"She was tired, so she went to bed.\"</li>\n     <li>After introductory elements: \"After dinner, we went for a walk.\"</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Comma\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "topic": [
+      "Grammar",
+      "Punctuation"
+    ],
+    "Question": {
+      "content": "Which punctuation mark is used to join two independent clauses without a conjunction?",
+      "type": "OBJ",
+      "options": [
+        "Comma",
+        "Semicolon",
+        "Colon",
+        "Apostrophe"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Semicolon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Semicolon Usage</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   The semicolon (;) is used to connect two independent clauses that are closely related in thought without using a coordinating conjunction.\n   <ul>\n     <li>Example: \"She loves reading; her brother prefers sports.\"</li>\n     <li>Also used to separate items in a list when those items contain commas.</li>\n   </ul>\n   Using a comma alone without a conjunction between two independent clauses creates a comma splice (grammatical error).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Semicolon\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": [
+      "Grammar",
+      "Punctuation"
+    ],
+    "Question": {
+      "content": "Which punctuation mark is used to introduce a list, quotation, or explanation?",
+      "type": "OBJ",
+      "options": [
+        "Comma",
+        "Semicolon",
+        "Colon",
+        "Dash"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Colon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Colon Usage</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   The colon (:) is used to introduce something that follows, such as a list, a quotation, or an explanation. It signals that what comes after is related to what came before.\n   <ul>\n     <li>Introducing a list: \"You will need the following: paper, pencil, and eraser.\"</li>\n     <li>Introducing a quotation: \"He reminded us: 'Hard work pays off.'\"</li>\n     <li>Introducing an explanation: \"She had one goal: to win.\"</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Colon\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "topic": [
+      "Grammar",
+      "Punctuation"
+    ],
+    "Question": {
+      "content": "Which punctuation mark is used to show possession or to indicate omitted letters?",
+      "type": "OBJ",
+      "options": [
+        "Comma",
+        "Semicolon",
+        "Apostrophe",
+        "Hyphen"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Apostrophe"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Apostrophe Usage</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   The apostrophe (') has two main functions:\n   <ol>\n     <li><strong>Showing possession:</strong> Indicates ownership. Example: \"John's book,\" \"the teachers' lounge.\"</li>\n     <li><strong>Indicating omitted letters (contractions):</strong> Shows where letters have been left out. Example: \"don't\" (do not), \"it's\" (it is).</li>\n   </ol>\n   Note: Do not confuse \"it's\" (contraction) with \"its\" (possessive).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Apostrophe\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "topic": [
+      "Grammar",
+      "Punctuation"
+    ],
+    "Question": {
+      "content": "Which punctuation mark is used to join compound words or separate syllables?",
+      "type": "OBJ",
+      "options": [
+        "Comma",
+        "Apostrophe",
+        "Hyphen",
+        "Dash"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hyphen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hyphen Usage</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   The hyphen (-) is a short dash used to join words together or to separate syllables.\n   <ul>\n     <li><strong>Compound words:</strong> \"mother-in-law,\" \"well-known,\" \"self-esteem.\"</li>\n     <li><strong>Compound adjectives before nouns:</strong> \"a well-written essay,\" \"a twenty-year-old student.\"</li>\n     <li><strong>Numbers:</strong> \"twenty-one,\" \"thirty-five.\"</li>\n     <li><strong>Word breaks at line endings:</strong> Separates syllables when a word runs to the next line.</li>\n   </ul>\n   Note: The hyphen is different from the longer dash (—), which indicates a pause or break in thought.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Hyphen\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": [
+      "Grammar",
+      "Subject-Verb Agreement"
+    ],
+    "Question": {
+      "content": "The subject and verb in a sentence must agree in which two aspects?",
+      "type": "OBJ",
+      "options": [
+        "Number and person",
+        "Tense and mood",
+        "Gender and case",
+        "Voice and aspect"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Number and person"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Subject-Verb Agreement</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Subject-verb agreement requires that the subject and verb match in <strong>number</strong> (singular or plural) and <strong>person</strong> (first, second, or third).\n   <ul>\n     <li><strong>Number:</strong> \"She walks\" (singular) vs. \"They walk\" (plural)</li>\n     <li><strong>Person:</strong> \"I am\" (first person), \"You are\" (second person), \"He is\" (third person)</li>\n   </ul>\n   This is one of the most fundamental rules of English grammar.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Number and person\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": [
+      "Grammar",
+      "Subject-Verb Agreement"
+    ],
+    "Question": {
+      "content": "When two subjects are joined by \"and,\" the verb should be?",
+      "type": "OBJ",
+      "options": [
+        "Singular",
+        "Plural",
+        "Depends on the first subject",
+        "Depends on the second subject"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Plural"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Compound Subjects with \"And\"</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   When two or more subjects are joined by the coordinating conjunction \"and,\" they form a compound subject that typically takes a <strong>plural verb</strong>.\n   <ul>\n     <li>Example: \"John <strong>and</strong> Mary <strong>are</strong> coming.\" (not \"is\")</li>\n     <li>Example: \"The teacher <strong>and</strong> the student <strong>agree</strong> with the decision.\"</li>\n   </ul>\n   <strong>Exception:</strong> When the subjects refer to the same person or thing, or when they are considered a single unit, a singular verb is used.\n   <ul>\n     <li>Example: \"Peanut butter <strong>and</strong> jelly <strong>is</strong> my favorite sandwich.\" (considered one item)</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Plural\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": [
+      "Grammar",
+      "Subject-Verb Agreement"
+    ],
+    "Question": {
+      "content": "When subjects are joined by \"or\" or \"nor,\" the verb agrees with which subject?",
+      "type": "OBJ",
+      "options": [
+        "The first subject",
+        "The last subject",
+        "The nearest subject",
+        "The plural subject"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The nearest subject"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Agreement with \"Or/Nor\"</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   When subjects are joined by \"or\" or \"nor\" (correlative conjunctions), the verb agrees with the subject that is <strong>nearest to the verb</strong>.\n   <ul>\n     <li>Example: \"Neither the students <strong>nor</strong> the teacher <strong>is</strong> ready.\" (teacher is singular and nearest)</li>\n     <li>Example: \"Neither the teacher <strong>nor</strong> the students <strong>are</strong> ready.\" (students is plural and nearest)</li>\n     <li>Example: \"Either John <strong>or</strong> his brothers <strong>are</strong> responsible.\"</li>\n   </ul>\n   This rule helps determine whether the verb should be singular or plural.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> The nearest subject\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": [
+      "Grammar",
+      "Parts of Speech",
+      "Conjunctions"
+    ],
+    "Question": {
+      "content": "Which of the following is a coordinating conjunction?",
+      "type": "OBJ",
+      "options": [
+        "Because",
+        "Although",
+        "But",
+        "Since"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "But"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Coordinating Conjunctions</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>The Seven Coordinating Conjunctions (FANBOYS):</strong><br>\n   <ul>\n     <li><strong>F</strong> - For</li>\n     <li><strong>A</strong> - And</li>\n     <li><strong>N</strong> - Nor</li>\n     <li><strong>B</strong> - <strong>But</strong></li>\n     <li><strong>O</strong> - Or</li>\n     <li><strong>Y</strong> - Yet</li>\n     <li><strong>S</strong> - So</li>\n   </ul>\n   Coordinating conjunctions join words, phrases, or independent clauses of equal grammatical rank.\n   <br><br>\n   \"Because,\" \"although,\" and \"since\" are <strong>subordinating conjunctions</strong>, which introduce dependent clauses.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> But\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": [
+      "Grammar",
+      "Parts of Speech",
+      "Conjunctions"
+    ],
+    "Question": {
+      "content": "Which of the following is a subordinating conjunction?",
+      "type": "OBJ",
+      "options": [
+        "And",
+        "Or",
+        "Because",
+        "But"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Because"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Subordinating Conjunctions</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   Subordinating conjunctions introduce dependent (subordinate) clauses and show the relationship between the dependent clause and the independent clause.\n   <br><br>\n   <strong>Common subordinating conjunctions include:</strong>\n   <ul>\n     <li>Because, since, although, though, while, whereas, if, unless, until, when, whenever, where, wherever, as, as if, etc.</li>\n   </ul>\n   \"And,\" \"or,\" and \"but\" are coordinating conjunctions (FANBOYS).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Because\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": [
+      "Grammar",
+      "Parts of Speech",
+      "Adjectives"
+    ],
+    "Question": {
+      "content": "What is the correct order of adjectives before a noun?",
+      "type": "OBJ",
+      "options": [
+        "Opinion, size, age, shape, color, origin, material, purpose",
+        "Size, opinion, age, color, origin, shape, material, purpose",
+        "Age, size, opinion, color, origin, shape, purpose, material",
+        "Opinion, color, size, age, shape, origin, material, purpose"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Opinion, size, age, shape, color, origin, material, purpose"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Order of Adjectives</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Standard Order (OSASCOMP):</strong><br>\n   <ol>\n     <li><strong>O</strong>pinion (e.g., beautiful, ugly, expensive)</li>\n     <li><strong>S</strong>ize (e.g., large, small, tiny)</li>\n     <li><strong>A</strong>ge (e.g., old, new, ancient)</li>\n     <li><strong>S</strong>hape (e.g., round, square, rectangular)</li>\n     <li><strong>C</strong>olor (e.g., red, blue, green)</li>\n     <li><strong>O</strong>rigin (e.g., French, Japanese, American)</li>\n     <li><strong>M</strong>aterial (e.g., wooden, cotton, metal)</li>\n     <li><strong>P</strong>urpose (e.g., cooking, sleeping, gardening)</li>\n   </ol>\n   <strong>Example:</strong> \"A beautiful (opinion) large (size) old (age) round (shape) red (color) French (origin) wooden (material) dining (purpose) table.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Opinion, size, age, shape, color, origin, material, purpose\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": [
+      "Vocabulary",
+      "Synonyms"
+    ],
+    "Question": {
+      "content": "What is the synonym of \"verbose\"?",
+      "type": "OBJ",
+      "options": [
+        "Brief",
+        "Wordy",
+        "Silent",
+        "Concise"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Wordy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Verbose</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   <strong>Verbose</strong> means using or containing more words than necessary; wordy or long-winded.\n   <ul>\n     <li><strong>Synonyms:</strong> Wordy, talkative, long-winded, garrulous, prolix</li>\n     <li><strong>Antonyms:</strong> Brief, concise, succinct, terse</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Wordy\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": [
+      "Vocabulary",
+      "Antonyms"
+    ],
+    "Question": {
+      "content": "What is the antonym of \"benevolent\"?",
+      "type": "OBJ",
+      "options": [
+        "Kind",
+        "Generous",
+        "Malicious",
+        "Charitable"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Malicious"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Benevolent</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   <strong>Benevolent</strong> means well-meaning and kindly; charitable or generous.\n   <ul>\n     <li><strong>Synonyms:</strong> Kind, generous, charitable, altruistic, compassionate</li>\n     <li><strong>Antonyms:</strong> Malicious, malevolent, cruel, selfish, spiteful</li>\n   </ul>\n   \"Malicious\" means intending to do harm or cause suffering, making it the opposite of benevolent.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Malicious\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": [
+      "Vocabulary",
+      "Word Usage"
+    ],
+    "Question": {
+      "content": "Choose the correct word: The manager ________ the employee for his excellent work.",
+      "type": "OBJ",
+      "options": [
+        "Complemented",
+        "Complimented",
+        "Completed",
+        "Complained"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complimented"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Complement vs. Compliment</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Common Confusion:</strong><br>\n   <ul>\n     <li><strong>Compliment</strong> (with \"i\"): An expression of praise or admiration. (Verb: to praise)</li>\n     <li><strong>Complement</strong> (with \"e\"): Something that completes or goes well with something else.</li>\n   </ul>\n   In the sentence, the manager is praising the employee for excellent work, so \"complimented\" is correct.\n   <br><br>\n   <strong>Memory tip:</strong> \"I\" like to give a compliment (praise). \"E\" is for complete (complement).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Complimented\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": [
+      "Vocabulary",
+      "Word Usage"
+    ],
+    "Question": {
+      "content": "Choose the correct word: The red wine ________ the steak perfectly.",
+      "type": "OBJ",
+      "options": [
+        "Complements",
+        "Compliments",
+        "Completes",
+        "Complicates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complements"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Complement vs. Compliment</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Common Confusion:</strong><br>\n   <ul>\n     <li><strong>Complement</strong> (with \"e\"): Something that completes or goes well with something else.</li>\n     <li><strong>Compliment</strong> (with \"i\"): An expression of praise.</li>\n   </ul>\n   In the sentence, the red wine goes well with or enhances the steak, so \"complements\" is correct.\n   <br><br>\n   <strong>Memory tip:</strong> \"E\" for complete (complement). \"I\" for I like praise (compliment).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Complements\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 71",
+    "topic": [
+      "Vocabulary",
+      "Word Usage"
+    ],
+    "Question": {
+      "content": "Choose the correct word: The new policy will ________ everyone in the organization.",
+      "type": "OBJ",
+      "options": [
+        "Affect",
+        "Effect",
+        "Inflict",
+        "Infect"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Affect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Affect vs. Effect</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Common Confusion:</strong><br>\n   <ul>\n     <li><strong>Affect</strong> (verb): To influence or produce a change in something. (Action)</li>\n     <li><strong>Effect</strong> (noun): The result or outcome of an action.</li>\n   </ul>\n   In the sentence, \"will ________ everyone\" requires a verb, so \"affect\" is correct.\n   <br><br>\n   <strong>Memory tip:</strong> <strong>A</strong>ffect is an <strong>A</strong>ction (verb). <strong>E</strong>ffect is an <strong>E</strong>nd result (noun).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Affect\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 72",
+    "topic": [
+      "Vocabulary",
+      "Word Usage"
+    ],
+    "Question": {
+      "content": "Choose the correct word: The ________ of the medication was immediate relief.",
+      "type": "OBJ",
+      "options": [
+        "Affect",
+        "Effect",
+        "Affection",
+        "Effective"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Effect"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Affect vs. Effect</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Common Confusion:</strong><br>\n   <ul>\n     <li><strong>Affect</strong> (verb): To influence or produce a change.</li>\n     <li><strong>Effect</strong> (noun): The result or outcome.</li>\n   </ul>\n   In the sentence, \"The ________ of the medication\" requires a noun (the result), so \"effect\" is correct.\n   <br><br>\n   <strong>Example:</strong> \"The medicine <strong>affected</strong> him positively. The positive <strong>effect</strong> was immediate.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Effect\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 73",
+    "topic": [
+      "Vocabulary",
+      "Word Usage"
+    ],
+    "Question": {
+      "content": "Choose the correct word: Please ________ the books to the library on time.",
+      "type": "OBJ",
+      "options": [
+        "Lend",
+        "Borrow",
+        "Loan",
+        "Return"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Return"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lend vs. Borrow vs. Return</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Correct Usage:</strong><br>\n   <ul>\n     <li><strong>Lend:</strong> To give something temporarily (the lender gives).</li>\n     <li><strong>Borrow:</strong> To take something temporarily (the borrower takes).</li>\n     <li><strong>Return:</strong> To give back something that was borrowed.</li>\n   </ul>\n   The sentence asks to \"________ the books to the library,\" which means giving them back, so \"return\" is the correct word.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Return\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 74",
+    "topic": [
+      "Grammar",
+      "Common Errors"
+    ],
+    "Question": {
+      "content": "Identify the error: \"Neither John nor his friends was at the party.\"",
+      "type": "OBJ",
+      "options": [
+        "Neither",
+        "Nor",
+        "Was",
+        "At"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Was"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Subject-Verb Agreement with \"Neither...Nor\"</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   When using \"neither...nor,\" the verb agrees with the subject that is <strong>nearest to the verb</strong>.\n   <br><br>\n   In the sentence \"Neither John nor his friends was at the party,\" the nearest subject to the verb is \"friends\" (plural). Therefore, the correct verb should be \"were,\" not \"was.\"\n   <br><br>\n   <strong>Corrected:</strong> \"Neither John nor his friends <strong>were</strong> at the party.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Was\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 75",
+    "topic": [
+      "Grammar",
+      "Common Errors"
+    ],
+    "Question": {
+      "content": "Identify the error: \"Between you and I, this is a secret.\"",
+      "type": "OBJ",
+      "options": [
+        "Between",
+        "You",
+        "I",
+        "Secret"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "I"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pronoun Case After Prepositions</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   After a preposition (like \"between\"), the pronoun must be in the <strong>objective case</strong>.\n   <ul>\n     <li>Objective case pronouns: me, you, him, her, us, them</li>\n     <li>Subjective case pronouns: I, you, he, she, we, they</li>\n   </ul>\n   In the sentence, \"between you and I,\" the pronoun \"I\" is subjective case, but it should be objective case \"me.\"\n   <br><br>\n   <strong>Corrected:</strong> \"Between you and <strong>me</strong>, this is a secret.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> I\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 76",
+    "topic": [
+      "Library Science",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Which classification scheme is used in the University of Port Harcourt Library?",
+      "type": "OBJ",
+      "options": [
+        "Dewey Decimal Classification",
+        "Library of Congress Classification",
+        "Universal Decimal Classification",
+        "Bibliographic Classification"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Library of Congress Classification"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Library Classification Systems</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Common Systems:</strong><br>\n   <ul>\n     <li><strong>Dewey Decimal Classification (DDC):</strong> Used in many public and school libraries; uses numbers 000-999.</li>\n     <li><strong>Library of Congress Classification (LCC):</strong> Used in most university and research libraries; uses letters and numbers.</li>\n   </ul>\n   The University of Port Harcourt Library uses the <strong>Library of Congress Classification (LCC)</strong> system.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Library of Congress Classification\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 77",
+    "topic": [
+      "Library Science",
+      "Cataloguing"
+    ],
+    "Question": {
+      "content": "What is the name for cards in a library catalogue cabinet?",
+      "type": "OBJ",
+      "options": [
+        "Call cards",
+        "Catalogue cards",
+        "Guide cards",
+        "Index cards"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Catalogue cards"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Catalogue Cards</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   <strong>Catalogue cards</strong> are cards (typically 12.5cm x 7.5cm or 3 x 5 inches) that contain bibliographic information about library materials. They are stored in catalogue cabinets and organized alphabetically by author, title, or subject.\n   <br><br>\n   Types of catalogue cards:\n   <ul>\n     <li><strong>Author card:</strong> Filed by the author's name</li>\n     <li><strong>Title card:</strong> Filed by the book title</li>\n     <li><strong>Subject card:</strong> Filed by the subject matter</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Catalogue cards\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 78",
+    "topic": [
+      "Library Science",
+      "Reference Materials"
+    ],
+    "Question": {
+      "content": "Reference materials are marked REF or Ref. Is there a difference between these?",
+      "type": "OBJ",
+      "options": [
+        "There is no difference between them",
+        "There is a difference between them",
+        "One is shelved at the reference section while the other is in the open shelf",
+        "Both are displayed on the shelf"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "There is no difference between them"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reference Materials Markings</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Explanation:</strong><br>\n   \"REF\" and \"Ref\" are simply variations of the same abbreviation. Both indicate that the material is a reference item meant for in-library use only. There is <strong>no functional difference</strong> between them; they are interchangeable ways of marking reference materials.\n   <br><br>\n   Reference materials include dictionaries, encyclopedias, almanacs, atlases, and other sources that provide quick factual information.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> There is no difference between them\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 79",
+    "topic": [
+      "Library Science",
+      "Periodicals"
+    ],
+    "Question": {
+      "content": "Old issues of journals are called what?",
+      "type": "OBJ",
+      "options": [
+        "Superseded issues",
+        "Old books",
+        "Ancient issues",
+        "Discarded issues"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Superseded issues"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Superseded Issues</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   <strong>Superseded issues</strong> are older editions of journals or periodicals that have been replaced by newer issues. These are typically kept in libraries for research purposes, often in bound volumes or microfilm.\n   <br><br>\n   Superseded issues may be stored in:\n   <ul>\n     <li>Back files or stacks</li>\n     <li>Bound volumes in the periodicals section</li>\n     <li>Compact shelving or storage</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Superseded issues\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 80",
+    "topic": [
+      "Library Science",
+      "Cataloguing"
+    ],
+    "Question": {
+      "content": "What is the accession number of a book?",
+      "type": "OBJ",
+      "options": [
+        "The number given to a book in the library",
+        "The call mark of the book",
+        "The call number of the book",
+        "The ISBN number"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The number given to a book in the library"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Accession Number</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   An <strong>accession number</strong> is a unique sequential number assigned to each item when it is added to a library collection. It serves as a permanent record of the item's acquisition and is used for inventory and record-keeping purposes.\n   <br><br>\n   <strong>Distinction:</strong>\n   <ul>\n     <li><strong>Accession number:</strong> Internal library number for tracking</li>\n     <li><strong>Call number:</strong> Classification number that indicates where the book is located on the shelf</li>\n     <li><strong>ISBN:</strong> International Standard Book Number (publisher's identifier)</li>\n   </ul>\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> The number given to a book in the library\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 81",
+    "topic": [
+      "Grammar",
+      "Subject-Verb Agreement"
+    ],
+    "Question": {
+      "content": "Choose the correct verb: A few of these apples ________ great.",
+      "type": "OBJ",
+      "options": [
+        "tasted",
+        "tastes",
+        "taste",
+        "tasting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "taste"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Subject-Verb Agreement with Quantifiers</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   \"A few\" is a plural quantifier that refers to a plural noun (apples). Therefore, the verb must be plural.\n   <ul>\n     <li>Singular verb: tastes (used with singular subjects like \"one apple\")</li>\n     <li>Plural verb: taste (used with plural subjects like \"apples\" or \"a few apples\")</li>\n   </ul>\n   <strong>Correct:</strong> \"A few of these apples <strong>taste</strong> great.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> taste\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 82",
+    "topic": [
+      "Grammar",
+      "Subject-Verb Agreement"
+    ],
+    "Question": {
+      "content": "Choose the correct verb: It ________ these men that I saw.",
+      "type": "OBJ",
+      "options": [
+        "were",
+        "was",
+        "has",
+        "is"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "was"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cleft Sentences</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   This is a cleft sentence structure (\"It is/was... that...\"). In this construction, the verb \"to be\" agrees with the subject \"it,\" which is always singular. Even though the complement (\"these men\") is plural, the verb remains singular.\n   <br><br>\n   <strong>Correct:</strong> \"It <strong>was</strong> these men that I saw.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> was\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 83",
+    "topic": [
+      "Grammar",
+      "Subject-Verb Agreement"
+    ],
+    "Question": {
+      "content": "Choose the correct verb: Half of the mango ________ rotten.",
+      "type": "OBJ",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "can being"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "is"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Subject-Verb Agreement with Fractions</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   When a fraction or percentage is followed by a singular noun, use a singular verb. \"Mango\" is singular, so the verb must be singular.\n   <ul>\n     <li>Singular: half of the mango <strong>is</strong> rotten</li>\n     <li>Plural: half of the mangoes <strong>are</strong> rotten</li>\n   </ul>\n   <strong>Correct:</strong> \"Half of the mango <strong>is</strong> rotten.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> is\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 84",
+    "topic": [
+      "Grammar",
+      "Subject-Verb Agreement"
+    ],
+    "Question": {
+      "content": "Choose the correct verb: A gang of thieves ________ broken into the bank.",
+      "type": "OBJ",
+      "options": [
+        "have",
+        "were",
+        "was",
+        "has"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "has"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Collective Nouns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   Collective nouns (gang, team, committee, family) are usually treated as singular when the group is acting as a single unit. \"A gang of thieves\" is considered a single entity, so it takes a singular verb.\n   <br><br>\n   <strong>Correct:</strong> \"A gang of thieves <strong>has</strong> broken into the bank.\"\n   <br><br>\n   <strong>Note:</strong> If the members are acting individually, a plural verb may be used (e.g., \"The gang were arguing among themselves.\")\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> has\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 85",
+    "topic": [
+      "Grammar",
+      "Subject-Verb Agreement"
+    ],
+    "Question": {
+      "content": "Choose the correct verb: Neither the boys nor their father ________ arrived.",
+      "type": "OBJ",
+      "options": [
+        "have",
+        "had been",
+        "has",
+        "was"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "has"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Subject-Verb Agreement with \"Neither...Nor\"</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   When using \"neither...nor,\" the verb agrees with the subject that is <strong>nearest to the verb</strong>.\n   <br><br>\n   In this sentence, the nearest subject is \"father\" (singular), so the verb should be singular.\n   <br><br>\n   <strong>Correct:</strong> \"Neither the boys nor their father <strong>has</strong> arrived.\"\n   <br><br>\n   Compare: \"Neither the father nor his boys <strong>have</strong> arrived.\" (nearest subject is plural)\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> has\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 86",
+    "topic": [
+      "Grammar",
+      "Subject-Verb Agreement"
+    ],
+    "Question": {
+      "content": "Choose the correct verb: The crowd ________ silent.",
+      "type": "OBJ",
+      "options": [
+        "were",
+        "are",
+        "has",
+        "was"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "was"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Collective Nouns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   \"Crowd\" is a collective noun that typically takes a singular verb when referring to the group as a single unit. The past tense \"was\" is appropriate for a past action.\n   <br><br>\n   <strong>Correct:</strong> \"The crowd <strong>was</strong> silent.\"\n   <br><br>\n   If emphasizing individual members acting separately, a plural verb could be used (e.g., \"The crowd were cheering in different ways.\"), but the singular is more common.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> was\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 87",
+    "topic": [
+      "Grammar",
+      "Subject-Verb Agreement"
+    ],
+    "Question": {
+      "content": "Choose the correct verb: Derby as well as Tony ________ brave.",
+      "type": "OBJ",
+      "options": [
+        "are",
+        "was",
+        "has being",
+        "is"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "is"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Subject-Verb Agreement with \"As Well As\"</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Rule:</strong><br>\n   The phrase \"as well as\" does not create a compound subject. The verb agrees with the <strong>first subject</strong> (the one before \"as well as\").\n   <br><br>\n   Here, the first subject is \"Derby\" (singular), so the verb should be singular.\n   <br><br>\n   <strong>Correct:</strong> \"Derby as well as Tony <strong>is</strong> brave.\"\n   <br><br>\n   Compare: \"Tony as well as Derby <strong>is</strong> brave.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> is\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 88",
+    "topic": [
+      "Grammar",
+      "Sentence Patterns"
+    ],
+    "Question": {
+      "content": "Identify the sentence pattern: \"We made Ben our cook.\"",
+      "type": "OBJ",
+      "options": [
+        "SSV",
+        "SVOC",
+        "SVVO",
+        "SSVVO"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "SVOC"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sentence Patterns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Pattern Analysis:</strong><br>\n   \"We made Ben our cook.\"\n   <ul>\n     <li><strong>S - Subject:</strong> We</li>\n     <li><strong>V - Verb:</strong> made</li>\n     <li><strong>O - Object:</strong> Ben</li>\n     <li><strong>C - Complement:</strong> our cook (object complement)</li>\n   </ul>\n   This pattern is <strong>SVOC</strong> (Subject + Verb + Object + Object Complement). The object complement describes or renames the direct object.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> SVOC\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 89",
+    "topic": [
+      "Grammar",
+      "Sentence Patterns"
+    ],
+    "Question": {
+      "content": "Identify the sentence pattern: \"Some men can be so unrepentant.\"",
+      "type": "OBJ",
+      "options": [
+        "SAVO",
+        "SVAC",
+        "SVAO",
+        "SVC"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "SVC"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sentence Patterns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Pattern Analysis:</strong><br>\n   \"Some men can be so unrepentant.\"\n   <ul>\n     <li><strong>S - Subject:</strong> Some men</li>\n     <li><strong>V - Verb:</strong> can be (linking verb)</li>\n     <li><strong>C - Complement:</strong> so unrepentant (subject complement/adjective)</li>\n   </ul>\n   This pattern is <strong>SVC</strong> (Subject + Verb + Subject Complement). The verb is a linking verb (be), and the complement describes the subject.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> SVC\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 90",
+    "topic": [
+      "Grammar",
+      "Sentence Patterns"
+    ],
+    "Question": {
+      "content": "Identify the sentence pattern: \"We later heard the views.\"",
+      "type": "OBJ",
+      "options": [
+        "SAVO",
+        "SVO",
+        "SVCA",
+        "SVOA"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "SVO"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sentence Patterns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Pattern Analysis:</strong><br>\n   \"We later heard the views.\"\n   <ul>\n     <li><strong>S - Subject:</strong> We</li>\n     <li><strong>V - Verb:</strong> heard (transitive verb)</li>\n     <li><strong>O - Object:</strong> the views (direct object)</li>\n   </ul>\n   The word \"later\" is an adverb (adjunct) modifying the verb, but the core pattern is SVO. Adverbials are often optional and do not change the basic pattern.\n   <br><br>\n   <strong>Pattern:</strong> SVO (Subject + Verb + Object)\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> SVO\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 91",
+    "topic": [
+      "Grammar",
+      "Sentence Patterns"
+    ],
+    "Question": {
+      "content": "Identify the sentence pattern: \"This is good news indeed.\"",
+      "type": "OBJ",
+      "options": [
+        "SVAA",
+        "SVO",
+        "SVAC",
+        "SVCA",
+        "SVOA"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "SVCA"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sentence Patterns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Pattern Analysis:</strong><br>\n   \"This is good news indeed.\"\n   <ul>\n     <li><strong>S - Subject:</strong> This</li>\n     <li><strong>V - Verb:</strong> is (linking verb)</li>\n     <li><strong>C - Complement:</strong> good news (subject complement/noun phrase)</li>\n     <li><strong>A - Adjunct/Adverbial:</strong> indeed (adverb of emphasis)</li>\n   </ul>\n   This pattern is <strong>SVCA</strong> (Subject + Verb + Complement + Adverbial). The verb is a linking verb, and the adverbial provides additional information about the sentence.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> SVCA\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 92",
+    "topic": [
+      "Grammar",
+      "Sentence Patterns"
+    ],
+    "Question": {
+      "content": "Identify the sentence pattern: \"This is the end of the story.\"",
+      "type": "OBJ",
+      "options": [
+        "SV",
+        "SVV",
+        "SVO",
+        "SVCA",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "SVCA"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sentence Patterns</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Pattern Analysis:</strong><br>\n   \"This is the end of the story.\"\n   <ul>\n     <li><strong>S - Subject:</strong> This</li>\n     <li><strong>V - Verb:</strong> is (linking verb)</li>\n     <li><strong>C - Complement:</strong> the end of the story (subject complement/noun phrase)</li>\n   </ul>\n   This is actually <strong>SVC</strong> (Subject + Verb + Complement). Since there is no adverbial in this sentence, the correct pattern is SVC. However, if \"of the story\" is considered an adverbial phrase, some might analyze it differently. The standard analysis is SVC.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> SVCA (or SVC depending on analysis)\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 93",
+    "topic": [
+      "Linguistics",
+      "Word Formation"
+    ],
+    "Question": {
+      "content": "What is the term for the smallest unit of language that carries meaning?",
+      "type": "OBJ",
+      "options": [
+        "Word",
+        "Morpheme",
+        "Syllable",
+        "Root"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Morpheme"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Morpheme</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Definition:</strong><br>\n   A <strong>morpheme</strong> is the smallest grammatical unit in a language that carries meaning. Morphemes can be:\n   <ul>\n     <li><strong>Free morphemes:</strong> Can stand alone as words (e.g., \"book,\" \"run,\" \"happy\")</li>\n     <li><strong>Bound morphemes:</strong> Cannot stand alone and must be attached to other morphemes (e.g., \"-un,\" \"-ed,\" \"-ing,\" \"-s\")</li>\n   </ul>\n   Examples: \"unhappiness\" contains three morphemes: \"un-\" (bound), \"happy\" (free), \"-ness\" (bound).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Morpheme\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 94",
+    "topic": [
+      "Linguistics",
+      "Word Formation"
+    ],
+    "Question": {
+      "content": "\"Hanger-on\" is an example of which word formation process?",
+      "type": "OBJ",
+      "options": [
+        "Verb + noun",
+        "Adjective + preposition",
+        "Noun + adjective",
+        "Adjective"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Verb + noun"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Compound Words</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Analysis:</strong><br>\n   \"Hanger-on\" is a compound noun formed from:\n   <ul>\n     <li><strong>Hanger:</strong> derived from the verb \"to hang\" + agent suffix \"-er\" (verb-derived noun)</li>\n     <li><strong>On:</strong> preposition</li>\n   </ul>\n   The compound \"hanger-on\" describes a person who attaches themselves to someone or something. The formation pattern is <strong>verb + noun</strong> (or more accurately, verb-derived noun + preposition).\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Verb + noun\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 95",
+    "topic": [
+      "Linguistics",
+      "Word Formation"
+    ],
+    "Question": {
+      "content": "\"Spoon-feed\" is an example of which word formation process?",
+      "type": "OBJ",
+      "options": [
+        "Verb + adjective",
+        "Adjective + noun",
+        "Noun + verb",
+        "Adverb + verb"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Noun + verb"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Compound Words</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Analysis:</strong><br>\n   \"Spoon-feed\" is a compound verb formed from:\n   <ul>\n     <li><strong>Spoon:</strong> noun</li>\n     <li><strong>Feed:</strong> verb</li>\n   </ul>\n   The compound means to feed with a spoon or, figuratively, to provide excessive help. The formation pattern is <strong>noun + verb</strong>.\n   <br><br>\n   This is a common pattern for compound verbs in English (e.g., \"baby-sit,\" \"window-shop,\" \"hand-wash\").\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Noun + verb\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 96",
+    "topic": [
+      "Linguistics",
+      "Word Formation"
+    ],
+    "Question": {
+      "content": "\"Armored car\" is an example of which word formation process?",
+      "type": "OBJ",
+      "options": [
+        "Noun + verb",
+        "Noun + noun",
+        "Verb + noun",
+        "Adverb + verb",
+        "Adjective + noun"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adjective + noun"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Compound Words</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Analysis:</strong><br>\n   \"Armored car\" is a compound noun formed from:\n   <ul>\n     <li><strong>Armored:</strong> adjective (derived from noun \"armor\" + \"-ed\" suffix)</li>\n     <li><strong>Car:</strong> noun</li>\n   </ul>\n   The formation pattern is <strong>adjective + noun</strong>.\n   <br><br>\n   Other examples: \"greenhouse,\" \"blackboard,\" \"bluebird,\" \"highway.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Adjective + noun\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 97",
+    "topic": [
+      "Linguistics",
+      "Word Formation"
+    ],
+    "Question": {
+      "content": "\"Make-believe\" is an example of which word formation process?",
+      "type": "OBJ",
+      "options": [
+        "Verb + adjective",
+        "Noun + adjective",
+        "Verb + verb",
+        "Adverb + noun"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Verb + verb"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Compound Words</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Analysis:</strong><br>\n   \"Make-believe\" is a compound noun/adjective formed from two verbs:\n   <ul>\n     <li><strong>Make:</strong> verb</li>\n     <li><strong>Believe:</strong> verb</li>\n   </ul>\n   The formation pattern is <strong>verb + verb</strong>. This compound refers to pretending or imaginary things.\n   <br><br>\n   Other examples: \"sleepwalk,\" \"freeze-dry,\" \"stir-fry.\"\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Verb + verb\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 98",
+    "topic": [
+      "Reading Comprehension",
+      "Inference"
+    ],
+    "Question": {
+      "content": "Based on the passage about fashion history, what did the Crusaders see the Turks and Mongols wearing?",
+      "type": "OBJ",
+      "options": [
+        "Loose garments",
+        "Clothes fastened with buttons",
+        "Clothes fastened with zippers",
+        "High platform shoes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Loose garments"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reading Comprehension</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Passage Context:</strong><br>\n   The passage states: \"Before that time, people wore loose garments draped according to the national style. Clothing styles changed after the Crusaders. Court tailors began attaching buttons to clothes that fastened tightly around the human form.\"\n   <br><br>\n   This indicates that before the Crusaders, people (including Turks and Mongols) wore loose garments. The Crusaders observed this and brought back the concept of fitted clothing with buttons.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Loose garments\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 99",
+    "topic": [
+      "Reading Comprehension",
+      "Vocabulary"
+    ],
+    "Question": {
+      "content": "Based on the passage about fashion history, what is meant by the phrase \"styles quickly became obsolete\"?",
+      "type": "OBJ",
+      "options": [
+        "Styles came into fashion",
+        "Strange styles developed",
+        "No one cared about styles anymore",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reading Comprehension</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Meaning:</strong><br>\n   The phrase \"styles quickly became obsolete\" means that styles went out of fashion very quickly; they became outdated or no longer in use. This happened because the middle class wanted to dress like the nobility, and the nobility kept changing styles to stay ahead.\n   <br><br>\n   Among the options:\n   <ul>\n     <li>\"Styles came into fashion\" is the opposite meaning</li>\n     <li>\"Strange styles developed\" is not indicated in the passage</li>\n     <li>\"No one cared about styles anymore\" is also incorrect; people cared very much</li>\n   </ul>\n   Therefore, \"None of the above\" is the correct choice.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> None of the above\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 100",
+    "topic": [
+      "Reading Comprehension",
+      "Inference"
+    ],
+    "Question": {
+      "content": "Based on the passage about fashion history, which group were among the earliest slaves to fashion?",
+      "type": "OBJ",
+      "options": [
+        "Venetian noblewomen of the 1600s",
+        "The attendants who supported the Venetian women",
+        "The tailors who tried to keep up with changing fashions",
+        "The Turks and Mongols"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Venetian noblewomen of the 1600s"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reading Comprehension</h4>\n <div style='margin-bottom: 12px;'>\n   <strong style='color: var(--strongColor);'>Passage Context:</strong><br>\n   The passage describes Venetian noblewomen in the 1600s who wore platform shoes that lifted them nearly a foot off the ground, requiring attendants to support them. The passage concludes: \"The women who wore them might be considered among the earliest slaves to fashion.\"\n   <br><br>\n   Therefore, the Venetian noblewomen of the 1600s are identified as among the earliest \"slaves to fashion\" due to their impractical but fashionable footwear.\n </div>\n <div style='background: var(--greenBgL); color: var(--greenText); padding: 15px; border-radius: 6px; border-left: 4px solid var(--greenBg); margin-top: 15px;'>\n   <strong>✓ Final Answer:</strong> Venetian noblewomen of the 1600s\n </div>\n</div>"
+    }
+  }
+]
